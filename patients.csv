@@ -1,0 +1,4001 @@
+patient_id,arm,time_days,event
+0,No Treatment,105.8,1
+0,Anti-PD-1,200.0,0
+0,CCR2 Antagonist,200.0,0
+0,Combination,200.0,0
+1,No Treatment,23.32,0
+1,Anti-PD-1,23.32,0
+1,CCR2 Antagonist,23.32,0
+1,Combination,23.32,0
+2,No Treatment,30.39,1
+2,Anti-PD-1,34.17,1
+2,CCR2 Antagonist,31.35,1
+2,Combination,38.73,1
+3,No Treatment,25.36,1
+3,Anti-PD-1,40.23,1
+3,CCR2 Antagonist,28.89,1
+3,Combination,145.71,1
+4,No Treatment,200.0,0
+4,Anti-PD-1,200.0,0
+4,CCR2 Antagonist,200.0,0
+4,Combination,200.0,0
+5,No Treatment,7.1,0
+5,Anti-PD-1,7.1,0
+5,CCR2 Antagonist,7.1,0
+5,Combination,7.1,0
+6,No Treatment,58.48,1
+6,Anti-PD-1,58.8,1
+6,CCR2 Antagonist,58.65,1
+6,Combination,58.97,1
+7,No Treatment,30.26,1
+7,Anti-PD-1,30.91,1
+7,CCR2 Antagonist,30.63,1
+7,Combination,31.32,1
+8,No Treatment,5.95,0
+8,Anti-PD-1,5.95,0
+8,CCR2 Antagonist,5.95,0
+8,Combination,5.95,0
+9,No Treatment,56.7,1
+9,Anti-PD-1,115.03,1
+9,CCR2 Antagonist,66.71,1
+9,Combination,200.0,0
+10,No Treatment,65.76,1
+10,Anti-PD-1,77.91,1
+10,CCR2 Antagonist,72.36,1
+10,Combination,89.8,1
+11,No Treatment,70.03,1
+11,Anti-PD-1,200.0,0
+11,CCR2 Antagonist,200.0,0
+11,Combination,200.0,0
+12,No Treatment,44.68,1
+12,Anti-PD-1,94.74,1
+12,CCR2 Antagonist,56.73,1
+12,Combination,200.0,0
+13,No Treatment,149.31,1
+13,Anti-PD-1,200.0,0
+13,CCR2 Antagonist,200.0,0
+13,Combination,200.0,0
+14,No Treatment,47.04,1
+14,Anti-PD-1,56.42,1
+14,CCR2 Antagonist,49.15,1
+14,Combination,66.58,1
+15,No Treatment,36.52,1
+15,Anti-PD-1,36.66,1
+15,CCR2 Antagonist,36.58,1
+15,Combination,36.73,1
+16,No Treatment,200.0,0
+16,Anti-PD-1,200.0,0
+16,CCR2 Antagonist,200.0,0
+16,Combination,200.0,0
+17,No Treatment,69.85,1
+17,Anti-PD-1,71.26,1
+17,CCR2 Antagonist,70.96,1
+17,Combination,72.44,1
+18,No Treatment,33.96,1
+18,Anti-PD-1,34.01,1
+18,CCR2 Antagonist,33.99,1
+18,Combination,34.05,1
+19,No Treatment,24.38,1
+19,Anti-PD-1,24.92,1
+19,CCR2 Antagonist,24.57,1
+19,Combination,25.13,1
+20,No Treatment,61.14,1
+20,Anti-PD-1,114.7,1
+20,CCR2 Antagonist,67.42,1
+20,Combination,200.0,0
+21,No Treatment,31.85,1
+21,Anti-PD-1,33.45,1
+21,CCR2 Antagonist,32.37,1
+21,Combination,34.76,1
+22,No Treatment,200.0,0
+22,Anti-PD-1,200.0,0
+22,CCR2 Antagonist,200.0,0
+22,Combination,200.0,0
+23,No Treatment,61.38,1
+23,Anti-PD-1,200.0,0
+23,CCR2 Antagonist,68.88,1
+23,Combination,200.0,0
+24,No Treatment,49.15,1
+24,Anti-PD-1,64.82,1
+24,CCR2 Antagonist,52.0,1
+24,Combination,78.99,1
+25,No Treatment,200.0,0
+25,Anti-PD-1,200.0,0
+25,CCR2 Antagonist,200.0,0
+25,Combination,200.0,0
+26,No Treatment,38.74,1
+26,Anti-PD-1,140.63,0
+26,CCR2 Antagonist,53.53,1
+26,Combination,140.63,0
+27,No Treatment,55.75,0
+27,Anti-PD-1,55.75,0
+27,CCR2 Antagonist,55.75,0
+27,Combination,55.75,0
+28,No Treatment,22.05,0
+28,Anti-PD-1,22.05,0
+28,CCR2 Antagonist,22.05,0
+28,Combination,22.05,0
+29,No Treatment,60.27,1
+29,Anti-PD-1,60.85,1
+29,CCR2 Antagonist,60.57,1
+29,Combination,61.2,1
+30,No Treatment,26.41,1
+30,Anti-PD-1,26.7,1
+30,CCR2 Antagonist,26.6,1
+30,Combination,26.93,1
+31,No Treatment,19.9,1
+31,Anti-PD-1,22.72,1
+31,CCR2 Antagonist,20.9,1
+31,Combination,26.29,1
+32,No Treatment,20.78,1
+32,Anti-PD-1,24.35,1
+32,CCR2 Antagonist,21.72,1
+32,Combination,27.74,1
+33,No Treatment,45.4,1
+33,Anti-PD-1,49.58,1
+33,CCR2 Antagonist,46.64,1
+33,Combination,53.28,1
+34,No Treatment,18.02,1
+34,Anti-PD-1,21.61,1
+34,CCR2 Antagonist,19.25,1
+34,Combination,27.01,1
+35,No Treatment,37.82,1
+35,Anti-PD-1,200.0,0
+35,CCR2 Antagonist,77.37,1
+35,Combination,200.0,0
+36,No Treatment,35.49,1
+36,Anti-PD-1,35.61,1
+36,CCR2 Antagonist,35.58,1
+36,Combination,35.71,1
+37,No Treatment,26.92,1
+37,Anti-PD-1,80.84,1
+37,CCR2 Antagonist,30.49,1
+37,Combination,200.0,0
+38,No Treatment,32.62,1
+38,Anti-PD-1,37.53,1
+38,CCR2 Antagonist,35.49,1
+38,Combination,48.02,1
+39,No Treatment,39.23,1
+39,Anti-PD-1,99.65,1
+39,CCR2 Antagonist,47.34,1
+39,Combination,200.0,0
+40,No Treatment,81.63,1
+40,Anti-PD-1,104.53,0
+40,CCR2 Antagonist,104.53,0
+40,Combination,104.53,0
+41,No Treatment,75.36,1
+41,Anti-PD-1,87.2,1
+41,CCR2 Antagonist,79.78,1
+41,Combination,94.46,1
+42,No Treatment,200.0,0
+42,Anti-PD-1,200.0,0
+42,CCR2 Antagonist,200.0,0
+42,Combination,200.0,0
+43,No Treatment,49.67,1
+43,Anti-PD-1,100.59,1
+43,CCR2 Antagonist,54.43,1
+43,Combination,200.0,0
+44,No Treatment,200.0,0
+44,Anti-PD-1,200.0,0
+44,CCR2 Antagonist,200.0,0
+44,Combination,200.0,0
+45,No Treatment,200.0,0
+45,Anti-PD-1,200.0,0
+45,CCR2 Antagonist,200.0,0
+45,Combination,200.0,0
+46,No Treatment,27.13,1
+46,Anti-PD-1,27.13,1
+46,CCR2 Antagonist,27.13,1
+46,Combination,27.14,1
+47,No Treatment,81.83,1
+47,Anti-PD-1,200.0,0
+47,CCR2 Antagonist,200.0,0
+47,Combination,200.0,0
+48,No Treatment,24.22,1
+48,Anti-PD-1,25.16,1
+48,CCR2 Antagonist,24.56,1
+48,Combination,26.18,1
+49,No Treatment,58.43,1
+49,Anti-PD-1,58.72,1
+49,CCR2 Antagonist,58.62,1
+49,Combination,58.92,1
+50,No Treatment,14.29,0
+50,Anti-PD-1,14.29,0
+50,CCR2 Antagonist,14.29,0
+50,Combination,14.29,0
+51,No Treatment,52.47,1
+51,Anti-PD-1,81.96,1
+51,CCR2 Antagonist,59.48,1
+51,Combination,169.03,1
+52,No Treatment,29.79,1
+52,Anti-PD-1,29.85,1
+52,CCR2 Antagonist,29.82,1
+52,Combination,29.88,1
+53,No Treatment,21.51,1
+53,Anti-PD-1,22.0,1
+53,CCR2 Antagonist,21.67,1
+53,Combination,22.46,1
+54,No Treatment,15.74,1
+54,Anti-PD-1,16.15,1
+54,CCR2 Antagonist,15.87,1
+54,Combination,16.47,1
+55,No Treatment,200.0,0
+55,Anti-PD-1,200.0,0
+55,CCR2 Antagonist,200.0,0
+55,Combination,200.0,0
+56,No Treatment,44.68,1
+56,Anti-PD-1,47.81,1
+56,CCR2 Antagonist,45.94,1
+56,Combination,49.43,1
+57,No Treatment,19.45,1
+57,Anti-PD-1,20.18,1
+57,CCR2 Antagonist,19.74,1
+57,Combination,20.88,1
+58,No Treatment,28.7,1
+58,Anti-PD-1,39.93,1
+58,CCR2 Antagonist,31.68,1
+58,Combination,59.29,1
+59,No Treatment,200.0,0
+59,Anti-PD-1,200.0,0
+59,CCR2 Antagonist,200.0,0
+59,Combination,200.0,0
+60,No Treatment,33.67,1
+60,Anti-PD-1,33.74,1
+60,CCR2 Antagonist,33.69,1
+60,Combination,33.77,1
+61,No Treatment,200.0,0
+61,Anti-PD-1,200.0,0
+61,CCR2 Antagonist,200.0,0
+61,Combination,200.0,0
+62,No Treatment,73.52,1
+62,Anti-PD-1,200.0,0
+62,CCR2 Antagonist,200.0,0
+62,Combination,200.0,0
+63,No Treatment,200.0,0
+63,Anti-PD-1,200.0,0
+63,CCR2 Antagonist,200.0,0
+63,Combination,200.0,0
+64,No Treatment,43.33,1
+64,Anti-PD-1,43.6,1
+64,CCR2 Antagonist,43.42,1
+64,Combination,43.71,1
+65,No Treatment,26.85,1
+65,Anti-PD-1,29.49,1
+65,CCR2 Antagonist,28.14,1
+65,Combination,34.43,1
+66,No Treatment,14.36,1
+66,Anti-PD-1,14.44,1
+66,CCR2 Antagonist,14.4,1
+66,Combination,14.47,1
+67,No Treatment,200.0,0
+67,Anti-PD-1,200.0,0
+67,CCR2 Antagonist,200.0,0
+67,Combination,200.0,0
+68,No Treatment,46.33,1
+68,Anti-PD-1,53.43,1
+68,CCR2 Antagonist,48.59,1
+68,Combination,64.11,1
+69,No Treatment,107.14,1
+69,Anti-PD-1,200.0,0
+69,CCR2 Antagonist,200.0,0
+69,Combination,200.0,0
+70,No Treatment,37.7,1
+70,Anti-PD-1,200.0,0
+70,CCR2 Antagonist,61.37,1
+70,Combination,200.0,0
+71,No Treatment,42.62,1
+71,Anti-PD-1,200.0,0
+71,CCR2 Antagonist,56.99,1
+71,Combination,200.0,0
+72,No Treatment,15.69,1
+72,Anti-PD-1,15.76,1
+72,CCR2 Antagonist,15.72,1
+72,Combination,15.79,1
+73,No Treatment,41.43,1
+73,Anti-PD-1,200.0,0
+73,CCR2 Antagonist,56.18,1
+73,Combination,200.0,0
+74,No Treatment,200.0,0
+74,Anti-PD-1,200.0,0
+74,CCR2 Antagonist,200.0,0
+74,Combination,200.0,0
+75,No Treatment,14.95,1
+75,Anti-PD-1,14.96,1
+75,CCR2 Antagonist,14.95,1
+75,Combination,14.97,1
+76,No Treatment,75.84,1
+76,Anti-PD-1,77.66,0
+76,CCR2 Antagonist,77.66,0
+76,Combination,77.66,0
+77,No Treatment,38.27,1
+77,Anti-PD-1,200.0,0
+77,CCR2 Antagonist,65.88,1
+77,Combination,200.0,0
+78,No Treatment,43.37,1
+78,Anti-PD-1,200.0,0
+78,CCR2 Antagonist,52.93,1
+78,Combination,200.0,0
+79,No Treatment,25.07,1
+79,Anti-PD-1,25.07,1
+79,CCR2 Antagonist,25.07,1
+79,Combination,25.07,1
+80,No Treatment,200.0,0
+80,Anti-PD-1,200.0,0
+80,CCR2 Antagonist,200.0,0
+80,Combination,200.0,0
+81,No Treatment,43.74,1
+81,Anti-PD-1,49.0,1
+81,CCR2 Antagonist,46.04,1
+81,Combination,52.55,1
+82,No Treatment,23.6,1
+82,Anti-PD-1,24.43,1
+82,CCR2 Antagonist,23.89,1
+82,Combination,24.79,1
+83,No Treatment,200.0,0
+83,Anti-PD-1,200.0,0
+83,CCR2 Antagonist,200.0,0
+83,Combination,200.0,0
+84,No Treatment,200.0,0
+84,Anti-PD-1,200.0,0
+84,CCR2 Antagonist,200.0,0
+84,Combination,200.0,0
+85,No Treatment,200.0,0
+85,Anti-PD-1,200.0,0
+85,CCR2 Antagonist,200.0,0
+85,Combination,200.0,0
+86,No Treatment,200.0,0
+86,Anti-PD-1,200.0,0
+86,CCR2 Antagonist,200.0,0
+86,Combination,200.0,0
+87,No Treatment,24.35,1
+87,Anti-PD-1,51.05,1
+87,CCR2 Antagonist,30.18,1
+87,Combination,200.0,0
+88,No Treatment,29.15,1
+88,Anti-PD-1,30.73,1
+88,CCR2 Antagonist,29.85,1
+88,Combination,33.07,1
+89,No Treatment,126.25,1
+89,Anti-PD-1,132.49,1
+89,CCR2 Antagonist,129.31,1
+89,Combination,136.07,1
+90,No Treatment,34.59,1
+90,Anti-PD-1,61.71,1
+90,CCR2 Antagonist,38.84,1
+90,Combination,200.0,0
+91,No Treatment,200.0,0
+91,Anti-PD-1,200.0,0
+91,CCR2 Antagonist,200.0,0
+91,Combination,200.0,0
+92,No Treatment,22.06,1
+92,Anti-PD-1,24.37,1
+92,CCR2 Antagonist,22.66,1
+92,Combination,26.22,1
+93,No Treatment,27.65,1
+93,Anti-PD-1,36.11,0
+93,CCR2 Antagonist,34.65,1
+93,Combination,36.11,0
+94,No Treatment,88.54,1
+94,Anti-PD-1,93.05,1
+94,CCR2 Antagonist,90.98,1
+94,Combination,96.08,1
+95,No Treatment,67.24,1
+95,Anti-PD-1,126.95,0
+95,CCR2 Antagonist,126.95,0
+95,Combination,126.95,0
+96,No Treatment,19.89,1
+96,Anti-PD-1,20.63,1
+96,CCR2 Antagonist,20.14,1
+96,Combination,21.36,1
+97,No Treatment,23.72,1
+97,Anti-PD-1,24.79,1
+97,CCR2 Antagonist,24.06,1
+97,Combination,25.22,1
+98,No Treatment,101.1,1
+98,Anti-PD-1,200.0,0
+98,CCR2 Antagonist,200.0,0
+98,Combination,200.0,0
+99,No Treatment,25.05,1
+99,Anti-PD-1,25.26,1
+99,CCR2 Antagonist,25.18,1
+99,Combination,25.39,1
+100,No Treatment,26.3,1
+100,Anti-PD-1,26.84,1
+100,CCR2 Antagonist,26.46,1
+100,Combination,27.01,1
+101,No Treatment,45.81,1
+101,Anti-PD-1,200.0,0
+101,CCR2 Antagonist,68.78,1
+101,Combination,200.0,0
+102,No Treatment,28.02,1
+102,Anti-PD-1,28.61,1
+102,CCR2 Antagonist,28.37,1
+102,Combination,29.07,1
+103,No Treatment,33.48,1
+103,Anti-PD-1,41.54,1
+103,CCR2 Antagonist,34.93,1
+103,Combination,48.14,1
+104,No Treatment,200.0,0
+104,Anti-PD-1,200.0,0
+104,CCR2 Antagonist,200.0,0
+104,Combination,200.0,0
+105,No Treatment,11.53,1
+105,Anti-PD-1,13.01,1
+105,CCR2 Antagonist,12.04,1
+105,Combination,14.47,1
+106,No Treatment,55.81,1
+106,Anti-PD-1,58.23,1
+106,CCR2 Antagonist,56.68,1
+106,Combination,59.25,1
+107,No Treatment,34.49,1
+107,Anti-PD-1,38.25,1
+107,CCR2 Antagonist,35.92,1
+107,Combination,43.24,1
+108,No Treatment,28.36,1
+108,Anti-PD-1,31.49,1
+108,CCR2 Antagonist,29.84,1
+108,Combination,35.55,1
+109,No Treatment,200.0,0
+109,Anti-PD-1,200.0,0
+109,CCR2 Antagonist,200.0,0
+109,Combination,200.0,0
+110,No Treatment,200.0,0
+110,Anti-PD-1,200.0,0
+110,CCR2 Antagonist,200.0,0
+110,Combination,200.0,0
+111,No Treatment,43.94,1
+111,Anti-PD-1,79.0,1
+111,CCR2 Antagonist,53.15,1
+111,Combination,200.0,0
+112,No Treatment,49.08,1
+112,Anti-PD-1,58.4,1
+112,CCR2 Antagonist,51.58,1
+112,Combination,68.17,1
+113,No Treatment,47.51,1
+113,Anti-PD-1,69.58,1
+113,CCR2 Antagonist,53.12,1
+113,Combination,127.53,1
+114,No Treatment,200.0,0
+114,Anti-PD-1,200.0,0
+114,CCR2 Antagonist,200.0,0
+114,Combination,200.0,0
+115,No Treatment,66.01,1
+115,Anti-PD-1,67.57,1
+115,CCR2 Antagonist,66.55,1
+115,Combination,68.25,1
+116,No Treatment,46.44,0
+116,Anti-PD-1,46.44,0
+116,CCR2 Antagonist,46.44,0
+116,Combination,46.44,0
+117,No Treatment,40.32,1
+117,Anti-PD-1,200.0,0
+117,CCR2 Antagonist,78.85,1
+117,Combination,200.0,0
+118,No Treatment,37.21,1
+118,Anti-PD-1,46.24,1
+118,CCR2 Antagonist,40.51,1
+118,Combination,65.92,1
+119,No Treatment,32.37,1
+119,Anti-PD-1,33.21,1
+119,CCR2 Antagonist,32.79,1
+119,Combination,33.68,1
+120,No Treatment,200.0,0
+120,Anti-PD-1,200.0,0
+120,CCR2 Antagonist,200.0,0
+120,Combination,200.0,0
+121,No Treatment,37.22,1
+121,Anti-PD-1,39.52,1
+121,CCR2 Antagonist,38.5,1
+121,Combination,42.45,1
+122,No Treatment,28.59,1
+122,Anti-PD-1,34.39,1
+122,CCR2 Antagonist,30.2,1
+122,Combination,40.63,1
+123,No Treatment,35.33,1
+123,Anti-PD-1,35.86,1
+123,CCR2 Antagonist,35.52,1
+123,Combination,36.07,1
+124,No Treatment,75.36,1
+124,Anti-PD-1,81.11,1
+124,CCR2 Antagonist,77.71,1
+124,Combination,84.37,1
+125,No Treatment,18.21,1
+125,Anti-PD-1,200.0,0
+125,CCR2 Antagonist,31.0,1
+125,Combination,200.0,0
+126,No Treatment,105.63,1
+126,Anti-PD-1,190.24,1
+126,CCR2 Antagonist,116.29,1
+126,Combination,200.0,0
+127,No Treatment,105.83,1
+127,Anti-PD-1,200.0,0
+127,CCR2 Antagonist,200.0,0
+127,Combination,200.0,0
+128,No Treatment,53.89,1
+128,Anti-PD-1,200.0,0
+128,CCR2 Antagonist,200.0,0
+128,Combination,200.0,0
+129,No Treatment,84.02,1
+129,Anti-PD-1,88.2,1
+129,CCR2 Antagonist,85.81,1
+129,Combination,90.57,1
+130,No Treatment,200.0,0
+130,Anti-PD-1,200.0,0
+130,CCR2 Antagonist,200.0,0
+130,Combination,200.0,0
+131,No Treatment,200.0,0
+131,Anti-PD-1,200.0,0
+131,CCR2 Antagonist,200.0,0
+131,Combination,200.0,0
+132,No Treatment,29.92,1
+132,Anti-PD-1,42.11,1
+132,CCR2 Antagonist,36.05,1
+132,Combination,89.3,1
+133,No Treatment,19.64,0
+133,Anti-PD-1,19.64,0
+133,CCR2 Antagonist,19.64,0
+133,Combination,19.64,0
+134,No Treatment,36.16,1
+134,Anti-PD-1,36.18,1
+134,CCR2 Antagonist,36.17,1
+134,Combination,36.18,1
+135,No Treatment,61.44,1
+135,Anti-PD-1,84.43,1
+135,CCR2 Antagonist,65.64,1
+135,Combination,124.08,1
+136,No Treatment,200.0,0
+136,Anti-PD-1,200.0,0
+136,CCR2 Antagonist,200.0,0
+136,Combination,200.0,0
+137,No Treatment,43.07,1
+137,Anti-PD-1,93.22,1
+137,CCR2 Antagonist,65.03,1
+137,Combination,200.0,0
+138,No Treatment,82.81,1
+138,Anti-PD-1,200.0,0
+138,CCR2 Antagonist,200.0,0
+138,Combination,200.0,0
+139,No Treatment,36.54,0
+139,Anti-PD-1,36.54,0
+139,CCR2 Antagonist,36.54,0
+139,Combination,36.54,0
+140,No Treatment,38.09,1
+140,Anti-PD-1,39.61,1
+140,CCR2 Antagonist,38.53,1
+140,Combination,40.12,1
+141,No Treatment,146.26,1
+141,Anti-PD-1,200.0,0
+141,CCR2 Antagonist,200.0,0
+141,Combination,200.0,0
+142,No Treatment,200.0,0
+142,Anti-PD-1,200.0,0
+142,CCR2 Antagonist,200.0,0
+142,Combination,200.0,0
+143,No Treatment,200.0,0
+143,Anti-PD-1,200.0,0
+143,CCR2 Antagonist,200.0,0
+143,Combination,200.0,0
+144,No Treatment,26.03,1
+144,Anti-PD-1,26.79,1
+144,CCR2 Antagonist,26.44,1
+144,Combination,27.74,1
+145,No Treatment,29.73,1
+145,Anti-PD-1,147.03,0
+145,CCR2 Antagonist,43.53,1
+145,Combination,147.03,0
+146,No Treatment,200.0,0
+146,Anti-PD-1,200.0,0
+146,CCR2 Antagonist,200.0,0
+146,Combination,200.0,0
+147,No Treatment,200.0,0
+147,Anti-PD-1,200.0,0
+147,CCR2 Antagonist,200.0,0
+147,Combination,200.0,0
+148,No Treatment,28.5,1
+148,Anti-PD-1,37.08,1
+148,CCR2 Antagonist,31.19,1
+148,Combination,54.11,1
+149,No Treatment,36.51,1
+149,Anti-PD-1,94.8,1
+149,CCR2 Antagonist,40.75,1
+149,Combination,200.0,0
+150,No Treatment,200.0,0
+150,Anti-PD-1,200.0,0
+150,CCR2 Antagonist,200.0,0
+150,Combination,200.0,0
+151,No Treatment,18.63,0
+151,Anti-PD-1,18.63,0
+151,CCR2 Antagonist,18.63,0
+151,Combination,18.63,0
+152,No Treatment,24.84,1
+152,Anti-PD-1,25.46,1
+152,CCR2 Antagonist,25.07,1
+152,Combination,25.73,1
+153,No Treatment,22.03,1
+153,Anti-PD-1,25.76,1
+153,CCR2 Antagonist,24.0,1
+153,Combination,31.81,1
+154,No Treatment,200.0,0
+154,Anti-PD-1,200.0,0
+154,CCR2 Antagonist,200.0,0
+154,Combination,200.0,0
+155,No Treatment,200.0,0
+155,Anti-PD-1,200.0,0
+155,CCR2 Antagonist,200.0,0
+155,Combination,200.0,0
+156,No Treatment,55.53,1
+156,Anti-PD-1,200.0,0
+156,CCR2 Antagonist,81.29,1
+156,Combination,200.0,0
+157,No Treatment,32.67,1
+157,Anti-PD-1,37.12,1
+157,CCR2 Antagonist,33.91,1
+157,Combination,41.87,1
+158,No Treatment,69.14,1
+158,Anti-PD-1,158.89,1
+158,CCR2 Antagonist,82.64,1
+158,Combination,200.0,0
+159,No Treatment,15.31,1
+159,Anti-PD-1,15.33,1
+159,CCR2 Antagonist,15.32,1
+159,Combination,15.33,1
+160,No Treatment,200.0,0
+160,Anti-PD-1,200.0,0
+160,CCR2 Antagonist,200.0,0
+160,Combination,200.0,0
+161,No Treatment,153.58,1
+161,Anti-PD-1,200.0,0
+161,CCR2 Antagonist,200.0,0
+161,Combination,200.0,0
+162,No Treatment,200.0,0
+162,Anti-PD-1,200.0,0
+162,CCR2 Antagonist,200.0,0
+162,Combination,200.0,0
+163,No Treatment,62.37,1
+163,Anti-PD-1,64.21,1
+163,CCR2 Antagonist,63.65,1
+163,Combination,65.99,1
+164,No Treatment,37.28,1
+164,Anti-PD-1,41.91,1
+164,CCR2 Antagonist,38.93,1
+164,Combination,48.51,1
+165,No Treatment,42.86,1
+165,Anti-PD-1,46.54,1
+165,CCR2 Antagonist,43.67,1
+165,Combination,47.66,1
+166,No Treatment,56.18,1
+166,Anti-PD-1,58.6,1
+166,CCR2 Antagonist,57.13,1
+166,Combination,61.11,1
+167,No Treatment,47.27,1
+167,Anti-PD-1,59.01,1
+167,CCR2 Antagonist,51.02,1
+167,Combination,75.63,1
+168,No Treatment,17.53,1
+168,Anti-PD-1,17.53,1
+168,CCR2 Antagonist,17.53,1
+168,Combination,17.54,1
+169,No Treatment,14.71,1
+169,Anti-PD-1,15.17,1
+169,CCR2 Antagonist,14.85,1
+169,Combination,15.63,1
+170,No Treatment,200.0,0
+170,Anti-PD-1,200.0,0
+170,CCR2 Antagonist,200.0,0
+170,Combination,200.0,0
+171,No Treatment,23.72,1
+171,Anti-PD-1,24.54,1
+171,CCR2 Antagonist,24.01,1
+171,Combination,24.91,1
+172,No Treatment,16.77,1
+172,Anti-PD-1,20.03,1
+172,CCR2 Antagonist,18.24,1
+172,Combination,26.81,1
+173,No Treatment,200.0,0
+173,Anti-PD-1,200.0,0
+173,CCR2 Antagonist,200.0,0
+173,Combination,200.0,0
+174,No Treatment,200.0,0
+174,Anti-PD-1,200.0,0
+174,CCR2 Antagonist,200.0,0
+174,Combination,200.0,0
+175,No Treatment,37.03,1
+175,Anti-PD-1,53.16,1
+175,CCR2 Antagonist,43.94,1
+175,Combination,200.0,0
+176,No Treatment,49.98,0
+176,Anti-PD-1,49.98,0
+176,CCR2 Antagonist,49.98,0
+176,Combination,49.98,0
+177,No Treatment,200.0,0
+177,Anti-PD-1,200.0,0
+177,CCR2 Antagonist,200.0,0
+177,Combination,200.0,0
+178,No Treatment,27.66,1
+178,Anti-PD-1,28.57,1
+178,CCR2 Antagonist,28.0,1
+178,Combination,29.0,1
+179,No Treatment,200.0,0
+179,Anti-PD-1,200.0,0
+179,CCR2 Antagonist,200.0,0
+179,Combination,200.0,0
+180,No Treatment,73.69,1
+180,Anti-PD-1,200.0,0
+180,CCR2 Antagonist,200.0,0
+180,Combination,200.0,0
+181,No Treatment,43.23,1
+181,Anti-PD-1,68.41,1
+181,CCR2 Antagonist,54.24,1
+181,Combination,200.0,0
+182,No Treatment,200.0,0
+182,Anti-PD-1,200.0,0
+182,CCR2 Antagonist,200.0,0
+182,Combination,200.0,0
+183,No Treatment,24.14,1
+183,Anti-PD-1,200.0,0
+183,CCR2 Antagonist,37.45,1
+183,Combination,200.0,0
+184,No Treatment,28.61,1
+184,Anti-PD-1,34.39,1
+184,CCR2 Antagonist,31.43,1
+184,Combination,47.94,1
+185,No Treatment,103.65,1
+185,Anti-PD-1,200.0,0
+185,CCR2 Antagonist,147.62,1
+185,Combination,200.0,0
+186,No Treatment,36.6,1
+186,Anti-PD-1,36.81,1
+186,CCR2 Antagonist,36.74,1
+186,Combination,36.98,1
+187,No Treatment,20.97,1
+187,Anti-PD-1,25.69,1
+187,CCR2 Antagonist,22.25,1
+187,Combination,31.86,1
+188,No Treatment,24.04,1
+188,Anti-PD-1,24.1,1
+188,CCR2 Antagonist,24.07,1
+188,Combination,24.12,1
+189,No Treatment,49.61,1
+189,Anti-PD-1,74.81,1
+189,CCR2 Antagonist,55.93,1
+189,Combination,135.24,1
+190,No Treatment,47.91,1
+190,Anti-PD-1,53.88,1
+190,CCR2 Antagonist,50.24,1
+190,Combination,57.63,1
+191,No Treatment,48.06,1
+191,Anti-PD-1,168.33,1
+191,CCR2 Antagonist,84.23,1
+191,Combination,200.0,0
+192,No Treatment,22.67,1
+192,Anti-PD-1,28.49,1
+192,CCR2 Antagonist,24.46,1
+192,Combination,38.36,1
+193,No Treatment,43.31,1
+193,Anti-PD-1,200.0,0
+193,CCR2 Antagonist,58.3,1
+193,Combination,200.0,0
+194,No Treatment,32.79,1
+194,Anti-PD-1,50.21,1
+194,CCR2 Antagonist,39.02,1
+194,Combination,107.03,1
+195,No Treatment,200.0,0
+195,Anti-PD-1,200.0,0
+195,CCR2 Antagonist,200.0,0
+195,Combination,200.0,0
+196,No Treatment,25.74,1
+196,Anti-PD-1,30.36,1
+196,CCR2 Antagonist,27.38,1
+196,Combination,36.69,1
+197,No Treatment,34.09,1
+197,Anti-PD-1,35.51,1
+197,CCR2 Antagonist,34.71,1
+197,Combination,37.01,1
+198,No Treatment,58.46,1
+198,Anti-PD-1,200.0,0
+198,CCR2 Antagonist,200.0,0
+198,Combination,200.0,0
+199,No Treatment,93.95,0
+199,Anti-PD-1,93.95,0
+199,CCR2 Antagonist,93.95,0
+199,Combination,93.95,0
+200,No Treatment,94.42,1
+200,Anti-PD-1,200.0,0
+200,CCR2 Antagonist,138.17,1
+200,Combination,200.0,0
+201,No Treatment,27.12,1
+201,Anti-PD-1,27.16,1
+201,CCR2 Antagonist,27.13,1
+201,Combination,27.17,1
+202,No Treatment,36.24,1
+202,Anti-PD-1,37.0,1
+202,CCR2 Antagonist,36.58,1
+202,Combination,37.4,1
+203,No Treatment,46.3,1
+203,Anti-PD-1,200.0,0
+203,CCR2 Antagonist,200.0,0
+203,Combination,200.0,0
+204,No Treatment,8.33,1
+204,Anti-PD-1,8.57,1
+204,CCR2 Antagonist,8.43,1
+204,Combination,8.7,1
+205,No Treatment,44.32,1
+205,Anti-PD-1,200.0,0
+205,CCR2 Antagonist,54.86,1
+205,Combination,200.0,0
+206,No Treatment,25.06,1
+206,Anti-PD-1,25.19,1
+206,CCR2 Antagonist,25.11,1
+206,Combination,25.25,1
+207,No Treatment,46.88,1
+207,Anti-PD-1,200.0,0
+207,CCR2 Antagonist,200.0,0
+207,Combination,200.0,0
+208,No Treatment,21.16,1
+208,Anti-PD-1,22.02,1
+208,CCR2 Antagonist,21.55,1
+208,Combination,22.55,1
+209,No Treatment,29.19,1
+209,Anti-PD-1,31.23,1
+209,CCR2 Antagonist,30.11,1
+209,Combination,34.24,1
+210,No Treatment,57.39,1
+210,Anti-PD-1,200.0,0
+210,CCR2 Antagonist,200.0,0
+210,Combination,200.0,0
+211,No Treatment,28.71,1
+211,Anti-PD-1,64.21,1
+211,CCR2 Antagonist,32.34,1
+211,Combination,200.0,0
+212,No Treatment,44.03,1
+212,Anti-PD-1,44.39,1
+212,CCR2 Antagonist,44.25,1
+212,Combination,44.62,1
+213,No Treatment,30.48,1
+213,Anti-PD-1,44.41,1
+213,CCR2 Antagonist,35.99,1
+213,Combination,200.0,0
+214,No Treatment,30.57,1
+214,Anti-PD-1,30.61,1
+214,CCR2 Antagonist,30.59,1
+214,Combination,30.63,1
+215,No Treatment,24.06,1
+215,Anti-PD-1,33.41,1
+215,CCR2 Antagonist,27.57,1
+215,Combination,52.2,1
+216,No Treatment,200.0,0
+216,Anti-PD-1,200.0,0
+216,CCR2 Antagonist,200.0,0
+216,Combination,200.0,0
+217,No Treatment,174.78,0
+217,Anti-PD-1,174.78,0
+217,CCR2 Antagonist,174.78,0
+217,Combination,174.78,0
+218,No Treatment,35.23,1
+218,Anti-PD-1,42.18,1
+218,CCR2 Antagonist,38.32,1
+218,Combination,76.04,1
+219,No Treatment,55.86,1
+219,Anti-PD-1,150.86,1
+219,CCR2 Antagonist,80.03,1
+219,Combination,169.46,0
+220,No Treatment,39.62,1
+220,Anti-PD-1,61.78,1
+220,CCR2 Antagonist,43.19,1
+220,Combination,74.47,1
+221,No Treatment,37.84,1
+221,Anti-PD-1,38.34,1
+221,CCR2 Antagonist,38.07,1
+221,Combination,38.59,1
+222,No Treatment,18.46,0
+222,Anti-PD-1,18.46,0
+222,CCR2 Antagonist,18.46,0
+222,Combination,18.46,0
+223,No Treatment,35.99,1
+223,Anti-PD-1,37.16,1
+223,CCR2 Antagonist,36.82,1
+223,Combination,38.26,1
+224,No Treatment,18.03,1
+224,Anti-PD-1,18.15,1
+224,CCR2 Antagonist,18.07,1
+224,Combination,18.19,1
+225,No Treatment,32.17,1
+225,Anti-PD-1,57.42,1
+225,CCR2 Antagonist,36.74,1
+225,Combination,172.51,1
+226,No Treatment,44.07,1
+226,Anti-PD-1,49.53,1
+226,CCR2 Antagonist,46.71,1
+226,Combination,53.29,1
+227,No Treatment,97.25,1
+227,Anti-PD-1,200.0,0
+227,CCR2 Antagonist,200.0,0
+227,Combination,200.0,0
+228,No Treatment,200.0,0
+228,Anti-PD-1,200.0,0
+228,CCR2 Antagonist,200.0,0
+228,Combination,200.0,0
+229,No Treatment,200.0,0
+229,Anti-PD-1,200.0,0
+229,CCR2 Antagonist,200.0,0
+229,Combination,200.0,0
+230,No Treatment,58.65,1
+230,Anti-PD-1,60.1,1
+230,CCR2 Antagonist,59.09,1
+230,Combination,60.6,1
+231,No Treatment,200.0,0
+231,Anti-PD-1,200.0,0
+231,CCR2 Antagonist,200.0,0
+231,Combination,200.0,0
+232,No Treatment,13.03,0
+232,Anti-PD-1,13.03,0
+232,CCR2 Antagonist,13.03,0
+232,Combination,13.03,0
+233,No Treatment,49.71,1
+233,Anti-PD-1,50.71,1
+233,CCR2 Antagonist,49.95,1
+233,Combination,51.33,1
+234,No Treatment,200.0,0
+234,Anti-PD-1,200.0,0
+234,CCR2 Antagonist,200.0,0
+234,Combination,200.0,0
+235,No Treatment,200.0,0
+235,Anti-PD-1,200.0,0
+235,CCR2 Antagonist,200.0,0
+235,Combination,200.0,0
+236,No Treatment,19.65,1
+236,Anti-PD-1,20.04,1
+236,CCR2 Antagonist,19.78,1
+236,Combination,20.35,1
+237,No Treatment,200.0,0
+237,Anti-PD-1,200.0,0
+237,CCR2 Antagonist,200.0,0
+237,Combination,200.0,0
+238,No Treatment,39.13,1
+238,Anti-PD-1,200.0,0
+238,CCR2 Antagonist,49.51,1
+238,Combination,200.0,0
+239,No Treatment,200.0,0
+239,Anti-PD-1,200.0,0
+239,CCR2 Antagonist,200.0,0
+239,Combination,200.0,0
+240,No Treatment,34.69,1
+240,Anti-PD-1,36.67,1
+240,CCR2 Antagonist,35.39,1
+240,Combination,37.6,1
+241,No Treatment,58.23,1
+241,Anti-PD-1,83.72,1
+241,CCR2 Antagonist,68.17,1
+241,Combination,200.0,0
+242,No Treatment,44.31,1
+242,Anti-PD-1,49.51,1
+242,CCR2 Antagonist,46.41,1
+242,Combination,58.09,1
+243,No Treatment,32.97,1
+243,Anti-PD-1,33.92,1
+243,CCR2 Antagonist,33.22,1
+243,Combination,34.24,1
+244,No Treatment,93.17,1
+244,Anti-PD-1,200.0,0
+244,CCR2 Antagonist,135.23,1
+244,Combination,200.0,0
+245,No Treatment,20.9,1
+245,Anti-PD-1,25.63,1
+245,CCR2 Antagonist,22.64,1
+245,Combination,31.63,1
+246,No Treatment,38.98,1
+246,Anti-PD-1,55.95,1
+246,CCR2 Antagonist,43.01,1
+246,Combination,117.74,1
+247,No Treatment,19.6,1
+247,Anti-PD-1,20.28,1
+247,CCR2 Antagonist,19.8,1
+247,Combination,20.94,1
+248,No Treatment,27.66,1
+248,Anti-PD-1,29.07,1
+248,CCR2 Antagonist,28.2,1
+248,Combination,29.77,1
+249,No Treatment,44.86,1
+249,Anti-PD-1,44.98,1
+249,CCR2 Antagonist,44.92,1
+249,Combination,45.04,1
+250,No Treatment,40.71,1
+250,Anti-PD-1,45.18,1
+250,CCR2 Antagonist,42.9,1
+250,Combination,48.33,1
+251,No Treatment,200.0,0
+251,Anti-PD-1,200.0,0
+251,CCR2 Antagonist,200.0,0
+251,Combination,200.0,0
+252,No Treatment,55.41,1
+252,Anti-PD-1,66.17,1
+252,CCR2 Antagonist,60.77,1
+252,Combination,76.87,1
+253,No Treatment,200.0,0
+253,Anti-PD-1,200.0,0
+253,CCR2 Antagonist,200.0,0
+253,Combination,200.0,0
+254,No Treatment,54.77,1
+254,Anti-PD-1,57.78,1
+254,CCR2 Antagonist,55.87,1
+254,Combination,59.09,1
+255,No Treatment,31.2,1
+255,Anti-PD-1,32.6,1
+255,CCR2 Antagonist,31.72,1
+255,Combination,33.91,1
+256,No Treatment,119.22,1
+256,Anti-PD-1,200.0,0
+256,CCR2 Antagonist,200.0,0
+256,Combination,200.0,0
+257,No Treatment,39.69,1
+257,Anti-PD-1,51.64,1
+257,CCR2 Antagonist,43.71,1
+257,Combination,72.58,1
+258,No Treatment,200.0,0
+258,Anti-PD-1,200.0,0
+258,CCR2 Antagonist,200.0,0
+258,Combination,200.0,0
+259,No Treatment,109.13,1
+259,Anti-PD-1,200.0,0
+259,CCR2 Antagonist,144.09,1
+259,Combination,200.0,0
+260,No Treatment,25.78,1
+260,Anti-PD-1,32.95,1
+260,CCR2 Antagonist,28.12,1
+260,Combination,47.66,1
+261,No Treatment,200.0,0
+261,Anti-PD-1,200.0,0
+261,CCR2 Antagonist,200.0,0
+261,Combination,200.0,0
+262,No Treatment,25.85,1
+262,Anti-PD-1,25.88,1
+262,CCR2 Antagonist,25.86,1
+262,Combination,25.89,1
+263,No Treatment,59.91,1
+263,Anti-PD-1,200.0,0
+263,CCR2 Antagonist,86.35,1
+263,Combination,200.0,0
+264,No Treatment,28.41,1
+264,Anti-PD-1,39.19,1
+264,CCR2 Antagonist,30.86,1
+264,Combination,63.2,1
+265,No Treatment,42.01,1
+265,Anti-PD-1,61.14,1
+265,CCR2 Antagonist,45.83,1
+265,Combination,88.36,1
+266,No Treatment,35.82,1
+266,Anti-PD-1,36.18,1
+266,CCR2 Antagonist,35.97,1
+266,Combination,36.53,1
+267,No Treatment,200.0,0
+267,Anti-PD-1,200.0,0
+267,CCR2 Antagonist,200.0,0
+267,Combination,200.0,0
+268,No Treatment,36.01,1
+268,Anti-PD-1,200.0,0
+268,CCR2 Antagonist,55.4,1
+268,Combination,200.0,0
+269,No Treatment,33.58,1
+269,Anti-PD-1,183.92,1
+269,CCR2 Antagonist,53.83,1
+269,Combination,200.0,0
+270,No Treatment,74.13,1
+270,Anti-PD-1,200.0,0
+270,CCR2 Antagonist,94.11,1
+270,Combination,200.0,0
+271,No Treatment,43.48,1
+271,Anti-PD-1,200.0,0
+271,CCR2 Antagonist,51.95,1
+271,Combination,200.0,0
+272,No Treatment,50.56,1
+272,Anti-PD-1,56.55,1
+272,CCR2 Antagonist,53.09,1
+272,Combination,60.34,1
+273,No Treatment,23.31,1
+273,Anti-PD-1,24.77,1
+273,CCR2 Antagonist,23.98,1
+273,Combination,25.47,0
+274,No Treatment,52.71,1
+274,Anti-PD-1,200.0,0
+274,CCR2 Antagonist,67.27,1
+274,Combination,200.0,0
+275,No Treatment,200.0,0
+275,Anti-PD-1,200.0,0
+275,CCR2 Antagonist,200.0,0
+275,Combination,200.0,0
+276,No Treatment,200.0,0
+276,Anti-PD-1,200.0,0
+276,CCR2 Antagonist,200.0,0
+276,Combination,200.0,0
+277,No Treatment,55.2,1
+277,Anti-PD-1,56.22,1
+277,CCR2 Antagonist,55.75,1
+277,Combination,56.86,1
+278,No Treatment,200.0,0
+278,Anti-PD-1,200.0,0
+278,CCR2 Antagonist,200.0,0
+278,Combination,200.0,0
+279,No Treatment,200.0,0
+279,Anti-PD-1,200.0,0
+279,CCR2 Antagonist,200.0,0
+279,Combination,200.0,0
+280,No Treatment,200.0,0
+280,Anti-PD-1,200.0,0
+280,CCR2 Antagonist,200.0,0
+280,Combination,200.0,0
+281,No Treatment,200.0,0
+281,Anti-PD-1,200.0,0
+281,CCR2 Antagonist,200.0,0
+281,Combination,200.0,0
+282,No Treatment,73.74,1
+282,Anti-PD-1,200.0,0
+282,CCR2 Antagonist,140.38,1
+282,Combination,200.0,0
+283,No Treatment,200.0,0
+283,Anti-PD-1,200.0,0
+283,CCR2 Antagonist,200.0,0
+283,Combination,200.0,0
+284,No Treatment,54.41,1
+284,Anti-PD-1,138.9,1
+284,CCR2 Antagonist,66.34,1
+284,Combination,200.0,0
+285,No Treatment,46.4,1
+285,Anti-PD-1,200.0,0
+285,CCR2 Antagonist,63.31,1
+285,Combination,200.0,0
+286,No Treatment,93.83,1
+286,Anti-PD-1,200.0,0
+286,CCR2 Antagonist,200.0,0
+286,Combination,200.0,0
+287,No Treatment,34.46,1
+287,Anti-PD-1,200.0,0
+287,CCR2 Antagonist,56.16,1
+287,Combination,200.0,0
+288,No Treatment,53.07,1
+288,Anti-PD-1,200.0,0
+288,CCR2 Antagonist,70.98,1
+288,Combination,200.0,0
+289,No Treatment,25.0,1
+289,Anti-PD-1,53.98,1
+289,CCR2 Antagonist,34.57,1
+289,Combination,200.0,0
+290,No Treatment,32.83,1
+290,Anti-PD-1,39.97,1
+290,CCR2 Antagonist,35.44,1
+290,Combination,50.91,1
+291,No Treatment,29.87,1
+291,Anti-PD-1,30.8,1
+291,CCR2 Antagonist,30.35,1
+291,Combination,31.42,1
+292,No Treatment,16.0,1
+292,Anti-PD-1,23.7,1
+292,CCR2 Antagonist,17.85,1
+292,Combination,38.36,1
+293,No Treatment,21.17,1
+293,Anti-PD-1,21.93,1
+293,CCR2 Antagonist,21.59,1
+293,Combination,22.47,1
+294,No Treatment,53.33,1
+294,Anti-PD-1,200.0,0
+294,CCR2 Antagonist,60.83,1
+294,Combination,200.0,0
+295,No Treatment,7.72,0
+295,Anti-PD-1,7.72,0
+295,CCR2 Antagonist,7.72,0
+295,Combination,7.72,0
+296,No Treatment,200.0,0
+296,Anti-PD-1,200.0,0
+296,CCR2 Antagonist,200.0,0
+296,Combination,200.0,0
+297,No Treatment,58.31,1
+297,Anti-PD-1,101.96,1
+297,CCR2 Antagonist,75.12,1
+297,Combination,200.0,0
+298,No Treatment,26.14,1
+298,Anti-PD-1,32.28,1
+298,CCR2 Antagonist,27.45,1
+298,Combination,37.74,1
+299,No Treatment,200.0,0
+299,Anti-PD-1,200.0,0
+299,CCR2 Antagonist,200.0,0
+299,Combination,200.0,0
+300,No Treatment,46.51,1
+300,Anti-PD-1,200.0,0
+300,CCR2 Antagonist,52.03,1
+300,Combination,200.0,0
+301,No Treatment,44.88,1
+301,Anti-PD-1,55.31,1
+301,CCR2 Antagonist,47.57,1
+301,Combination,72.78,1
+302,No Treatment,41.46,1
+302,Anti-PD-1,56.14,1
+302,CCR2 Antagonist,44.65,1
+302,Combination,73.76,1
+303,No Treatment,21.11,1
+303,Anti-PD-1,39.9,1
+303,CCR2 Antagonist,24.06,1
+303,Combination,77.26,1
+304,No Treatment,200.0,0
+304,Anti-PD-1,200.0,0
+304,CCR2 Antagonist,200.0,0
+304,Combination,200.0,0
+305,No Treatment,55.98,1
+305,Anti-PD-1,61.01,1
+305,CCR2 Antagonist,57.99,1
+305,Combination,63.99,1
+306,No Treatment,15.87,1
+306,Anti-PD-1,18.28,1
+306,CCR2 Antagonist,16.72,1
+306,Combination,20.83,1
+307,No Treatment,33.73,1
+307,Anti-PD-1,33.98,1
+307,CCR2 Antagonist,33.93,1
+307,Combination,34.2,1
+308,No Treatment,24.98,1
+308,Anti-PD-1,25.3,1
+308,CCR2 Antagonist,25.1,1
+308,Combination,25.68,1
+309,No Treatment,41.96,1
+309,Anti-PD-1,149.98,1
+309,CCR2 Antagonist,56.18,1
+309,Combination,200.0,0
+310,No Treatment,27.93,1
+310,Anti-PD-1,29.66,1
+310,CCR2 Antagonist,28.9,1
+310,Combination,30.93,1
+311,No Treatment,200.0,0
+311,Anti-PD-1,200.0,0
+311,CCR2 Antagonist,200.0,0
+311,Combination,200.0,0
+312,No Treatment,200.0,0
+312,Anti-PD-1,200.0,0
+312,CCR2 Antagonist,200.0,0
+312,Combination,200.0,0
+313,No Treatment,67.4,1
+313,Anti-PD-1,69.59,1
+313,CCR2 Antagonist,68.33,1
+313,Combination,70.66,1
+314,No Treatment,39.42,1
+314,Anti-PD-1,39.63,1
+314,CCR2 Antagonist,39.53,1
+314,Combination,39.75,1
+315,No Treatment,49.71,1
+315,Anti-PD-1,51.06,1
+315,CCR2 Antagonist,50.32,1
+315,Combination,52.65,1
+316,No Treatment,72.52,1
+316,Anti-PD-1,79.67,1
+316,CCR2 Antagonist,76.13,1
+316,Combination,90.52,1
+317,No Treatment,10.62,1
+317,Anti-PD-1,11.6,1
+317,CCR2 Antagonist,11.05,1
+317,Combination,12.74,1
+318,No Treatment,61.52,1
+318,Anti-PD-1,200.0,0
+318,CCR2 Antagonist,99.73,1
+318,Combination,200.0,0
+319,No Treatment,27.34,1
+319,Anti-PD-1,29.41,1
+319,CCR2 Antagonist,28.45,1
+319,Combination,32.77,1
+320,No Treatment,200.0,0
+320,Anti-PD-1,200.0,0
+320,CCR2 Antagonist,200.0,0
+320,Combination,200.0,0
+321,No Treatment,44.95,1
+321,Anti-PD-1,45.78,1
+321,CCR2 Antagonist,45.42,1
+321,Combination,46.3,1
+322,No Treatment,67.64,1
+322,Anti-PD-1,70.66,1
+322,CCR2 Antagonist,69.75,1
+322,Combination,73.29,1
+323,No Treatment,29.12,1
+323,Anti-PD-1,40.82,1
+323,CCR2 Antagonist,30.84,1
+323,Combination,48.48,1
+324,No Treatment,10.03,0
+324,Anti-PD-1,10.03,0
+324,CCR2 Antagonist,10.03,0
+324,Combination,10.03,0
+325,No Treatment,25.6,1
+325,Anti-PD-1,31.65,1
+325,CCR2 Antagonist,27.43,1
+325,Combination,41.59,1
+326,No Treatment,38.96,1
+326,Anti-PD-1,39.71,1
+326,CCR2 Antagonist,39.32,1
+326,Combination,40.12,1
+327,No Treatment,24.02,1
+327,Anti-PD-1,24.21,1
+327,CCR2 Antagonist,24.11,1
+327,Combination,24.31,1
+328,No Treatment,200.0,0
+328,Anti-PD-1,200.0,0
+328,CCR2 Antagonist,200.0,0
+328,Combination,200.0,0
+329,No Treatment,200.0,0
+329,Anti-PD-1,200.0,0
+329,CCR2 Antagonist,200.0,0
+329,Combination,200.0,0
+330,No Treatment,47.89,1
+330,Anti-PD-1,49.06,1
+330,CCR2 Antagonist,48.53,1
+330,Combination,49.84,1
+331,No Treatment,28.05,1
+331,Anti-PD-1,61.08,1
+331,CCR2 Antagonist,34.82,1
+331,Combination,200.0,0
+332,No Treatment,200.0,0
+332,Anti-PD-1,200.0,0
+332,CCR2 Antagonist,200.0,0
+332,Combination,200.0,0
+333,No Treatment,200.0,0
+333,Anti-PD-1,200.0,0
+333,CCR2 Antagonist,200.0,0
+333,Combination,200.0,0
+334,No Treatment,52.15,1
+334,Anti-PD-1,200.0,0
+334,CCR2 Antagonist,76.13,1
+334,Combination,200.0,0
+335,No Treatment,45.24,1
+335,Anti-PD-1,45.29,1
+335,CCR2 Antagonist,45.26,1
+335,Combination,45.31,1
+336,No Treatment,15.6,0
+336,Anti-PD-1,15.6,0
+336,CCR2 Antagonist,15.6,0
+336,Combination,15.6,0
+337,No Treatment,25.99,1
+337,Anti-PD-1,26.26,1
+337,CCR2 Antagonist,26.11,1
+337,Combination,26.39,1
+338,No Treatment,29.11,1
+338,Anti-PD-1,29.42,1
+338,CCR2 Antagonist,29.22,1
+338,Combination,29.56,1
+339,No Treatment,200.0,0
+339,Anti-PD-1,200.0,0
+339,CCR2 Antagonist,200.0,0
+339,Combination,200.0,0
+340,No Treatment,200.0,0
+340,Anti-PD-1,200.0,0
+340,CCR2 Antagonist,200.0,0
+340,Combination,200.0,0
+341,No Treatment,45.19,1
+341,Anti-PD-1,95.12,1
+341,CCR2 Antagonist,54.23,1
+341,Combination,200.0,0
+342,No Treatment,57.88,1
+342,Anti-PD-1,70.73,1
+342,CCR2 Antagonist,65.21,1
+342,Combination,89.27,1
+343,No Treatment,23.99,1
+343,Anti-PD-1,24.81,1
+343,CCR2 Antagonist,24.27,1
+343,Combination,25.13,1
+344,No Treatment,200.0,0
+344,Anti-PD-1,200.0,0
+344,CCR2 Antagonist,200.0,0
+344,Combination,200.0,0
+345,No Treatment,200.0,0
+345,Anti-PD-1,200.0,0
+345,CCR2 Antagonist,200.0,0
+345,Combination,200.0,0
+346,No Treatment,99.95,1
+346,Anti-PD-1,114.59,1
+346,CCR2 Antagonist,109.97,1
+346,Combination,129.75,1
+347,No Treatment,23.51,1
+347,Anti-PD-1,23.9,1
+347,CCR2 Antagonist,23.69,1
+347,Combination,24.11,1
+348,No Treatment,51.8,1
+348,Anti-PD-1,113.54,1
+348,CCR2 Antagonist,65.05,1
+348,Combination,200.0,0
+349,No Treatment,20.25,1
+349,Anti-PD-1,23.42,1
+349,CCR2 Antagonist,21.0,1
+349,Combination,26.23,1
+350,No Treatment,36.36,1
+350,Anti-PD-1,38.09,1
+350,CCR2 Antagonist,36.82,1
+350,Combination,39.32,1
+351,No Treatment,200.0,0
+351,Anti-PD-1,200.0,0
+351,CCR2 Antagonist,200.0,0
+351,Combination,200.0,0
+352,No Treatment,200.0,0
+352,Anti-PD-1,200.0,0
+352,CCR2 Antagonist,200.0,0
+352,Combination,200.0,0
+353,No Treatment,35.42,1
+353,Anti-PD-1,124.85,1
+353,CCR2 Antagonist,47.43,1
+353,Combination,200.0,0
+354,No Treatment,200.0,0
+354,Anti-PD-1,200.0,0
+354,CCR2 Antagonist,200.0,0
+354,Combination,200.0,0
+355,No Treatment,64.79,1
+355,Anti-PD-1,107.76,1
+355,CCR2 Antagonist,76.9,1
+355,Combination,200.0,0
+356,No Treatment,23.37,1
+356,Anti-PD-1,23.45,1
+356,CCR2 Antagonist,23.41,1
+356,Combination,23.49,1
+357,No Treatment,200.0,0
+357,Anti-PD-1,200.0,0
+357,CCR2 Antagonist,200.0,0
+357,Combination,200.0,0
+358,No Treatment,200.0,0
+358,Anti-PD-1,200.0,0
+358,CCR2 Antagonist,200.0,0
+358,Combination,200.0,0
+359,No Treatment,21.57,1
+359,Anti-PD-1,31.63,1
+359,CCR2 Antagonist,23.8,1
+359,Combination,45.98,1
+360,No Treatment,32.87,1
+360,Anti-PD-1,200.0,0
+360,CCR2 Antagonist,44.64,1
+360,Combination,200.0,0
+361,No Treatment,141.02,1
+361,Anti-PD-1,200.0,0
+361,CCR2 Antagonist,200.0,0
+361,Combination,200.0,0
+362,No Treatment,14.03,1
+362,Anti-PD-1,14.15,1
+362,CCR2 Antagonist,14.08,1
+362,Combination,14.21,1
+363,No Treatment,34.7,1
+363,Anti-PD-1,35.22,1
+363,CCR2 Antagonist,34.94,1
+363,Combination,35.49,1
+364,No Treatment,50.55,1
+364,Anti-PD-1,52.89,1
+364,CCR2 Antagonist,51.26,1
+364,Combination,53.7,1
+365,No Treatment,29.66,1
+365,Anti-PD-1,29.76,1
+365,CCR2 Antagonist,29.71,1
+365,Combination,29.81,1
+366,No Treatment,32.05,1
+366,Anti-PD-1,33.48,1
+366,CCR2 Antagonist,32.4,1
+366,Combination,34.74,1
+367,No Treatment,200.0,0
+367,Anti-PD-1,200.0,0
+367,CCR2 Antagonist,200.0,0
+367,Combination,200.0,0
+368,No Treatment,200.0,0
+368,Anti-PD-1,200.0,0
+368,CCR2 Antagonist,200.0,0
+368,Combination,200.0,0
+369,No Treatment,29.87,1
+369,Anti-PD-1,29.9,1
+369,CCR2 Antagonist,29.89,1
+369,Combination,29.92,1
+370,No Treatment,44.57,1
+370,Anti-PD-1,58.49,1
+370,CCR2 Antagonist,49.18,1
+370,Combination,78.3,1
+371,No Treatment,200.0,0
+371,Anti-PD-1,200.0,0
+371,CCR2 Antagonist,200.0,0
+371,Combination,200.0,0
+372,No Treatment,22.37,1
+372,Anti-PD-1,38.47,1
+372,CCR2 Antagonist,28.6,1
+372,Combination,200.0,0
+373,No Treatment,200.0,0
+373,Anti-PD-1,200.0,0
+373,CCR2 Antagonist,200.0,0
+373,Combination,200.0,0
+374,No Treatment,200.0,0
+374,Anti-PD-1,200.0,0
+374,CCR2 Antagonist,200.0,0
+374,Combination,200.0,0
+375,No Treatment,44.06,1
+375,Anti-PD-1,52.67,1
+375,CCR2 Antagonist,49.7,1
+375,Combination,76.62,1
+376,No Treatment,138.46,1
+376,Anti-PD-1,200.0,0
+376,CCR2 Antagonist,200.0,0
+376,Combination,200.0,0
+377,No Treatment,73.72,1
+377,Anti-PD-1,115.0,1
+377,CCR2 Antagonist,82.02,1
+377,Combination,154.43,1
+378,No Treatment,44.28,1
+378,Anti-PD-1,200.0,0
+378,CCR2 Antagonist,53.9,1
+378,Combination,200.0,0
+379,No Treatment,26.46,1
+379,Anti-PD-1,32.7,1
+379,CCR2 Antagonist,27.54,1
+379,Combination,37.91,1
+380,No Treatment,137.9,1
+380,Anti-PD-1,155.88,1
+380,CCR2 Antagonist,145.21,1
+380,Combination,166.85,1
+381,No Treatment,30.74,1
+381,Anti-PD-1,31.51,1
+381,CCR2 Antagonist,31.01,1
+381,Combination,31.87,1
+382,No Treatment,31.36,1
+382,Anti-PD-1,46.29,1
+382,CCR2 Antagonist,35.51,1
+382,Combination,76.36,1
+383,No Treatment,23.0,1
+383,Anti-PD-1,40.87,1
+383,CCR2 Antagonist,28.9,1
+383,Combination,200.0,0
+384,No Treatment,200.0,0
+384,Anti-PD-1,200.0,0
+384,CCR2 Antagonist,200.0,0
+384,Combination,200.0,0
+385,No Treatment,17.91,1
+385,Anti-PD-1,24.17,1
+385,CCR2 Antagonist,19.44,1
+385,Combination,38.45,1
+386,No Treatment,1.42,0
+386,Anti-PD-1,1.42,0
+386,CCR2 Antagonist,1.42,0
+386,Combination,1.42,0
+387,No Treatment,200.0,0
+387,Anti-PD-1,200.0,0
+387,CCR2 Antagonist,200.0,0
+387,Combination,200.0,0
+388,No Treatment,42.15,1
+388,Anti-PD-1,45.44,1
+388,CCR2 Antagonist,43.5,1
+388,Combination,49.64,1
+389,No Treatment,52.34,1
+389,Anti-PD-1,200.0,0
+389,CCR2 Antagonist,114.97,1
+389,Combination,200.0,0
+390,No Treatment,200.0,0
+390,Anti-PD-1,200.0,0
+390,CCR2 Antagonist,200.0,0
+390,Combination,200.0,0
+391,No Treatment,200.0,0
+391,Anti-PD-1,200.0,0
+391,CCR2 Antagonist,200.0,0
+391,Combination,200.0,0
+392,No Treatment,25.16,1
+392,Anti-PD-1,25.36,1
+392,CCR2 Antagonist,25.27,1
+392,Combination,25.5,1
+393,No Treatment,77.27,1
+393,Anti-PD-1,200.0,0
+393,CCR2 Antagonist,200.0,0
+393,Combination,200.0,0
+394,No Treatment,9.2,0
+394,Anti-PD-1,9.2,0
+394,CCR2 Antagonist,9.2,0
+394,Combination,9.2,0
+395,No Treatment,13.32,0
+395,Anti-PD-1,13.32,0
+395,CCR2 Antagonist,13.32,0
+395,Combination,13.32,0
+396,No Treatment,33.96,1
+396,Anti-PD-1,34.14,1
+396,CCR2 Antagonist,34.04,1
+396,Combination,34.22,1
+397,No Treatment,15.67,1
+397,Anti-PD-1,18.55,1
+397,CCR2 Antagonist,16.55,1
+397,Combination,21.55,1
+398,No Treatment,39.51,1
+398,Anti-PD-1,200.0,0
+398,CCR2 Antagonist,54.09,1
+398,Combination,200.0,0
+399,No Treatment,26.8,1
+399,Anti-PD-1,28.12,1
+399,CCR2 Antagonist,27.4,1
+399,Combination,28.84,1
+400,No Treatment,58.13,1
+400,Anti-PD-1,61.67,1
+400,CCR2 Antagonist,60.99,1
+400,Combination,65.41,1
+401,No Treatment,29.0,1
+401,Anti-PD-1,38.31,1
+401,CCR2 Antagonist,30.87,1
+401,Combination,50.97,1
+402,No Treatment,23.4,1
+402,Anti-PD-1,25.94,1
+402,CCR2 Antagonist,24.2,1
+402,Combination,28.64,1
+403,No Treatment,27.38,1
+403,Anti-PD-1,33.65,1
+403,CCR2 Antagonist,29.41,1
+403,Combination,42.91,1
+404,No Treatment,46.81,1
+404,Anti-PD-1,74.21,1
+404,CCR2 Antagonist,50.89,1
+404,Combination,200.0,0
+405,No Treatment,38.32,1
+405,Anti-PD-1,40.6,1
+405,CCR2 Antagonist,39.57,1
+405,Combination,42.22,1
+406,No Treatment,57.14,1
+406,Anti-PD-1,200.0,0
+406,CCR2 Antagonist,200.0,0
+406,Combination,200.0,0
+407,No Treatment,52.4,1
+407,Anti-PD-1,65.5,0
+407,CCR2 Antagonist,65.5,0
+407,Combination,65.5,0
+408,No Treatment,30.89,1
+408,Anti-PD-1,32.17,1
+408,CCR2 Antagonist,31.43,1
+408,Combination,32.79,1
+409,No Treatment,32.32,0
+409,Anti-PD-1,32.32,0
+409,CCR2 Antagonist,32.32,0
+409,Combination,32.32,0
+410,No Treatment,46.07,1
+410,Anti-PD-1,47.04,1
+410,CCR2 Antagonist,46.47,1
+410,Combination,47.52,1
+411,No Treatment,29.13,1
+411,Anti-PD-1,32.13,1
+411,CCR2 Antagonist,30.17,1
+411,Combination,34.99,1
+412,No Treatment,200.0,0
+412,Anti-PD-1,200.0,0
+412,CCR2 Antagonist,200.0,0
+412,Combination,200.0,0
+413,No Treatment,200.0,0
+413,Anti-PD-1,200.0,0
+413,CCR2 Antagonist,200.0,0
+413,Combination,200.0,0
+414,No Treatment,27.35,1
+414,Anti-PD-1,27.47,1
+414,CCR2 Antagonist,27.42,1
+414,Combination,27.55,1
+415,No Treatment,21.12,1
+415,Anti-PD-1,25.97,1
+415,CCR2 Antagonist,22.55,1
+415,Combination,30.91,1
+416,No Treatment,24.36,1
+416,Anti-PD-1,35.28,1
+416,CCR2 Antagonist,26.04,1
+416,Combination,48.83,1
+417,No Treatment,22.32,1
+417,Anti-PD-1,22.32,1
+417,CCR2 Antagonist,22.32,1
+417,Combination,22.32,1
+418,No Treatment,200.0,0
+418,Anti-PD-1,200.0,0
+418,CCR2 Antagonist,200.0,0
+418,Combination,200.0,0
+419,No Treatment,18.28,1
+419,Anti-PD-1,21.02,1
+419,CCR2 Antagonist,18.89,1
+419,Combination,23.79,1
+420,No Treatment,32.02,1
+420,Anti-PD-1,33.25,1
+420,CCR2 Antagonist,32.48,1
+420,Combination,34.87,1
+421,No Treatment,44.89,1
+421,Anti-PD-1,44.95,1
+421,CCR2 Antagonist,44.92,1
+421,Combination,44.98,1
+422,No Treatment,46.6,1
+422,Anti-PD-1,95.83,1
+422,CCR2 Antagonist,54.37,1
+422,Combination,200.0,0
+423,No Treatment,200.0,0
+423,Anti-PD-1,200.0,0
+423,CCR2 Antagonist,200.0,0
+423,Combination,200.0,0
+424,No Treatment,16.81,1
+424,Anti-PD-1,17.32,1
+424,CCR2 Antagonist,16.95,1
+424,Combination,17.74,1
+425,No Treatment,82.13,1
+425,Anti-PD-1,92.18,1
+425,CCR2 Antagonist,85.49,1
+425,Combination,97.04,1
+426,No Treatment,200.0,0
+426,Anti-PD-1,200.0,0
+426,CCR2 Antagonist,200.0,0
+426,Combination,200.0,0
+427,No Treatment,200.0,0
+427,Anti-PD-1,200.0,0
+427,CCR2 Antagonist,200.0,0
+427,Combination,200.0,0
+428,No Treatment,59.05,1
+428,Anti-PD-1,86.66,1
+428,CCR2 Antagonist,68.44,1
+428,Combination,191.78,1
+429,No Treatment,200.0,0
+429,Anti-PD-1,200.0,0
+429,CCR2 Antagonist,200.0,0
+429,Combination,200.0,0
+430,No Treatment,138.95,1
+430,Anti-PD-1,200.0,0
+430,CCR2 Antagonist,200.0,0
+430,Combination,200.0,0
+431,No Treatment,27.21,1
+431,Anti-PD-1,43.47,1
+431,CCR2 Antagonist,33.16,1
+431,Combination,134.23,1
+432,No Treatment,42.78,1
+432,Anti-PD-1,49.41,1
+432,CCR2 Antagonist,48.01,1
+432,Combination,63.65,1
+433,No Treatment,44.51,1
+433,Anti-PD-1,44.6,1
+433,CCR2 Antagonist,44.57,1
+433,Combination,44.66,1
+434,No Treatment,52.34,1
+434,Anti-PD-1,95.91,1
+434,CCR2 Antagonist,56.82,1
+434,Combination,200.0,0
+435,No Treatment,77.5,0
+435,Anti-PD-1,77.5,0
+435,CCR2 Antagonist,77.5,0
+435,Combination,77.5,0
+436,No Treatment,37.89,1
+436,Anti-PD-1,200.0,0
+436,CCR2 Antagonist,51.7,1
+436,Combination,200.0,0
+437,No Treatment,200.0,0
+437,Anti-PD-1,200.0,0
+437,CCR2 Antagonist,200.0,0
+437,Combination,200.0,0
+438,No Treatment,17.09,1
+438,Anti-PD-1,17.48,1
+438,CCR2 Antagonist,17.18,1
+438,Combination,17.75,1
+439,No Treatment,200.0,0
+439,Anti-PD-1,200.0,0
+439,CCR2 Antagonist,200.0,0
+439,Combination,200.0,0
+440,No Treatment,200.0,0
+440,Anti-PD-1,200.0,0
+440,CCR2 Antagonist,200.0,0
+440,Combination,200.0,0
+441,No Treatment,46.43,1
+441,Anti-PD-1,200.0,0
+441,CCR2 Antagonist,54.76,1
+441,Combination,200.0,0
+442,No Treatment,20.54,1
+442,Anti-PD-1,29.5,1
+442,CCR2 Antagonist,22.62,1
+442,Combination,46.08,1
+443,No Treatment,39.95,1
+443,Anti-PD-1,110.83,1
+443,CCR2 Antagonist,49.47,1
+443,Combination,200.0,0
+444,No Treatment,30.15,1
+444,Anti-PD-1,35.14,1
+444,CCR2 Antagonist,32.46,1
+444,Combination,41.92,1
+445,No Treatment,60.69,0
+445,Anti-PD-1,60.69,0
+445,CCR2 Antagonist,60.69,0
+445,Combination,60.69,0
+446,No Treatment,31.31,1
+446,Anti-PD-1,48.13,1
+446,CCR2 Antagonist,38.57,1
+446,Combination,200.0,0
+447,No Treatment,139.72,1
+447,Anti-PD-1,200.0,0
+447,CCR2 Antagonist,200.0,0
+447,Combination,200.0,0
+448,No Treatment,50.75,1
+448,Anti-PD-1,54.35,1
+448,CCR2 Antagonist,52.2,1
+448,Combination,56.29,1
+449,No Treatment,200.0,0
+449,Anti-PD-1,200.0,0
+449,CCR2 Antagonist,200.0,0
+449,Combination,200.0,0
+450,No Treatment,59.08,1
+450,Anti-PD-1,60.49,1
+450,CCR2 Antagonist,59.57,1
+450,Combination,61.06,1
+451,No Treatment,70.43,0
+451,Anti-PD-1,70.43,0
+451,CCR2 Antagonist,70.43,0
+451,Combination,70.43,0
+452,No Treatment,30.28,1
+452,Anti-PD-1,32.19,1
+452,CCR2 Antagonist,30.94,1
+452,Combination,34.57,1
+453,No Treatment,49.85,1
+453,Anti-PD-1,200.0,0
+453,CCR2 Antagonist,93.82,1
+453,Combination,200.0,0
+454,No Treatment,200.0,0
+454,Anti-PD-1,200.0,0
+454,CCR2 Antagonist,200.0,0
+454,Combination,200.0,0
+455,No Treatment,200.0,0
+455,Anti-PD-1,200.0,0
+455,CCR2 Antagonist,200.0,0
+455,Combination,200.0,0
+456,No Treatment,35.21,1
+456,Anti-PD-1,40.6,1
+456,CCR2 Antagonist,36.87,1
+456,Combination,49.15,1
+457,No Treatment,13.51,1
+457,Anti-PD-1,13.52,1
+457,CCR2 Antagonist,13.52,1
+457,Combination,13.52,1
+458,No Treatment,39.98,1
+458,Anti-PD-1,40.65,1
+458,CCR2 Antagonist,40.31,1
+458,Combination,41.03,1
+459,No Treatment,200.0,0
+459,Anti-PD-1,200.0,0
+459,CCR2 Antagonist,200.0,0
+459,Combination,200.0,0
+460,No Treatment,19.55,1
+460,Anti-PD-1,19.73,1
+460,CCR2 Antagonist,19.65,1
+460,Combination,19.85,1
+461,No Treatment,43.02,1
+461,Anti-PD-1,46.99,1
+461,CCR2 Antagonist,44.4,1
+461,Combination,50.88,1
+462,No Treatment,200.0,0
+462,Anti-PD-1,200.0,0
+462,CCR2 Antagonist,200.0,0
+462,Combination,200.0,0
+463,No Treatment,200.0,0
+463,Anti-PD-1,200.0,0
+463,CCR2 Antagonist,200.0,0
+463,Combination,200.0,0
+464,No Treatment,52.14,1
+464,Anti-PD-1,90.38,1
+464,CCR2 Antagonist,57.77,1
+464,Combination,200.0,0
+465,No Treatment,200.0,0
+465,Anti-PD-1,200.0,0
+465,CCR2 Antagonist,200.0,0
+465,Combination,200.0,0
+466,No Treatment,22.94,0
+466,Anti-PD-1,22.94,0
+466,CCR2 Antagonist,22.94,0
+466,Combination,22.94,0
+467,No Treatment,51.13,1
+467,Anti-PD-1,200.0,0
+467,CCR2 Antagonist,107.26,1
+467,Combination,200.0,0
+468,No Treatment,133.66,1
+468,Anti-PD-1,200.0,0
+468,CCR2 Antagonist,200.0,0
+468,Combination,200.0,0
+469,No Treatment,200.0,0
+469,Anti-PD-1,200.0,0
+469,CCR2 Antagonist,200.0,0
+469,Combination,200.0,0
+470,No Treatment,35.25,1
+470,Anti-PD-1,48.49,1
+470,CCR2 Antagonist,38.91,1
+470,Combination,66.83,1
+471,No Treatment,33.44,1
+471,Anti-PD-1,33.65,1
+471,CCR2 Antagonist,33.53,1
+471,Combination,33.75,1
+472,No Treatment,33.64,1
+472,Anti-PD-1,33.8,1
+472,CCR2 Antagonist,33.73,1
+472,Combination,33.9,1
+473,No Treatment,80.46,1
+473,Anti-PD-1,100.59,1
+473,CCR2 Antagonist,88.61,1
+473,Combination,117.91,1
+474,No Treatment,16.12,1
+474,Anti-PD-1,16.37,1
+474,CCR2 Antagonist,16.22,1
+474,Combination,16.66,1
+475,No Treatment,13.28,1
+475,Anti-PD-1,15.54,1
+475,CCR2 Antagonist,13.98,1
+475,Combination,17.78,1
+476,No Treatment,20.36,1
+476,Anti-PD-1,24.62,1
+476,CCR2 Antagonist,21.41,1
+476,Combination,29.33,1
+477,No Treatment,58.77,1
+477,Anti-PD-1,65.62,1
+477,CCR2 Antagonist,60.97,1
+477,Combination,76.26,1
+478,No Treatment,40.98,1
+478,Anti-PD-1,41.91,1
+478,CCR2 Antagonist,41.36,1
+478,Combination,42.35,1
+479,No Treatment,20.12,1
+479,Anti-PD-1,21.45,1
+479,CCR2 Antagonist,20.6,1
+479,Combination,23.1,1
+480,No Treatment,28.81,1
+480,Anti-PD-1,42.76,1
+480,CCR2 Antagonist,32.45,1
+480,Combination,93.12,1
+481,No Treatment,18.71,1
+481,Anti-PD-1,25.02,1
+481,CCR2 Antagonist,19.65,1
+481,Combination,29.8,1
+482,No Treatment,29.11,1
+482,Anti-PD-1,31.19,1
+482,CCR2 Antagonist,30.19,1
+482,Combination,33.83,1
+483,No Treatment,73.41,1
+483,Anti-PD-1,158.35,1
+483,CCR2 Antagonist,89.14,1
+483,Combination,200.0,0
+484,No Treatment,55.08,1
+484,Anti-PD-1,200.0,0
+484,CCR2 Antagonist,67.0,1
+484,Combination,200.0,0
+485,No Treatment,32.36,1
+485,Anti-PD-1,54.8,1
+485,CCR2 Antagonist,35.83,1
+485,Combination,92.99,1
+486,No Treatment,200.0,0
+486,Anti-PD-1,200.0,0
+486,CCR2 Antagonist,200.0,0
+486,Combination,200.0,0
+487,No Treatment,53.69,1
+487,Anti-PD-1,121.4,0
+487,CCR2 Antagonist,121.4,0
+487,Combination,121.4,0
+488,No Treatment,18.74,1
+488,Anti-PD-1,21.04,1
+488,CCR2 Antagonist,19.21,1
+488,Combination,23.1,1
+489,No Treatment,32.14,1
+489,Anti-PD-1,200.0,0
+489,CCR2 Antagonist,52.82,1
+489,Combination,200.0,0
+490,No Treatment,43.32,1
+490,Anti-PD-1,200.0,0
+490,CCR2 Antagonist,58.08,1
+490,Combination,200.0,0
+491,No Treatment,43.28,1
+491,Anti-PD-1,53.42,1
+491,CCR2 Antagonist,48.8,1
+491,Combination,74.92,1
+492,No Treatment,27.96,1
+492,Anti-PD-1,30.55,1
+492,CCR2 Antagonist,28.59,1
+492,Combination,32.35,1
+493,No Treatment,50.51,1
+493,Anti-PD-1,56.96,1
+493,CCR2 Antagonist,52.24,1
+493,Combination,64.09,1
+494,No Treatment,33.05,1
+494,Anti-PD-1,35.09,1
+494,CCR2 Antagonist,33.68,1
+494,Combination,36.89,1
+495,No Treatment,44.8,1
+495,Anti-PD-1,80.74,1
+495,CCR2 Antagonist,62.06,1
+495,Combination,200.0,0
+496,No Treatment,12.83,1
+496,Anti-PD-1,15.2,1
+496,CCR2 Antagonist,13.22,1
+496,Combination,16.95,1
+497,No Treatment,35.67,1
+497,Anti-PD-1,47.29,1
+497,CCR2 Antagonist,39.62,1
+497,Combination,66.67,1
+498,No Treatment,56.49,1
+498,Anti-PD-1,60.79,1
+498,CCR2 Antagonist,58.99,1
+498,Combination,63.92,1
+499,No Treatment,64.39,1
+499,Anti-PD-1,200.0,0
+499,CCR2 Antagonist,94.65,1
+499,Combination,200.0,0
+500,No Treatment,200.0,0
+500,Anti-PD-1,200.0,0
+500,CCR2 Antagonist,200.0,0
+500,Combination,200.0,0
+501,No Treatment,58.04,1
+501,Anti-PD-1,59.61,1
+501,CCR2 Antagonist,58.64,1
+501,Combination,60.3,1
+502,No Treatment,15.74,1
+502,Anti-PD-1,17.54,1
+502,CCR2 Antagonist,16.39,1
+502,Combination,19.82,1
+503,No Treatment,26.54,1
+503,Anti-PD-1,27.17,1
+503,CCR2 Antagonist,26.76,1
+503,Combination,27.68,1
+504,No Treatment,200.0,0
+504,Anti-PD-1,200.0,0
+504,CCR2 Antagonist,200.0,0
+504,Combination,200.0,0
+505,No Treatment,200.0,0
+505,Anti-PD-1,200.0,0
+505,CCR2 Antagonist,200.0,0
+505,Combination,200.0,0
+506,No Treatment,49.23,1
+506,Anti-PD-1,200.0,0
+506,CCR2 Antagonist,71.28,1
+506,Combination,200.0,0
+507,No Treatment,200.0,0
+507,Anti-PD-1,200.0,0
+507,CCR2 Antagonist,200.0,0
+507,Combination,200.0,0
+508,No Treatment,11.19,1
+508,Anti-PD-1,14.13,1
+508,CCR2 Antagonist,11.95,1
+508,Combination,16.97,1
+509,No Treatment,24.88,1
+509,Anti-PD-1,25.41,1
+509,CCR2 Antagonist,25.11,1
+509,Combination,25.71,1
+510,No Treatment,52.3,1
+510,Anti-PD-1,200.0,0
+510,CCR2 Antagonist,200.0,0
+510,Combination,200.0,0
+511,No Treatment,52.08,1
+511,Anti-PD-1,61.57,1
+511,CCR2 Antagonist,55.22,1
+511,Combination,67.56,1
+512,No Treatment,111.29,1
+512,Anti-PD-1,200.0,0
+512,CCR2 Antagonist,200.0,0
+512,Combination,200.0,0
+513,No Treatment,200.0,0
+513,Anti-PD-1,200.0,0
+513,CCR2 Antagonist,200.0,0
+513,Combination,200.0,0
+514,No Treatment,167.99,0
+514,Anti-PD-1,167.99,0
+514,CCR2 Antagonist,167.99,0
+514,Combination,167.99,0
+515,No Treatment,200.0,0
+515,Anti-PD-1,200.0,0
+515,CCR2 Antagonist,200.0,0
+515,Combination,200.0,0
+516,No Treatment,19.98,1
+516,Anti-PD-1,22.68,1
+516,CCR2 Antagonist,20.6,1
+516,Combination,25.18,1
+517,No Treatment,17.99,1
+517,Anti-PD-1,19.55,1
+517,CCR2 Antagonist,18.43,1
+517,Combination,21.12,1
+518,No Treatment,12.04,1
+518,Anti-PD-1,12.65,1
+518,CCR2 Antagonist,12.27,1
+518,Combination,13.24,1
+519,No Treatment,14.39,1
+519,Anti-PD-1,14.73,1
+519,CCR2 Antagonist,14.55,1
+519,Combination,14.91,1
+520,No Treatment,37.33,1
+520,Anti-PD-1,89.56,1
+520,CCR2 Antagonist,52.37,1
+520,Combination,200.0,0
+521,No Treatment,40.77,1
+521,Anti-PD-1,41.49,1
+521,CCR2 Antagonist,41.08,1
+521,Combination,42.31,1
+522,No Treatment,22.05,0
+522,Anti-PD-1,22.05,0
+522,CCR2 Antagonist,22.05,0
+522,Combination,22.05,0
+523,No Treatment,200.0,0
+523,Anti-PD-1,200.0,0
+523,CCR2 Antagonist,200.0,0
+523,Combination,200.0,0
+524,No Treatment,200.0,0
+524,Anti-PD-1,200.0,0
+524,CCR2 Antagonist,200.0,0
+524,Combination,200.0,0
+525,No Treatment,38.3,1
+525,Anti-PD-1,43.28,1
+525,CCR2 Antagonist,40.93,1
+525,Combination,50.18,1
+526,No Treatment,55.49,1
+526,Anti-PD-1,78.63,1
+526,CCR2 Antagonist,63.75,1
+526,Combination,105.79,1
+527,No Treatment,200.0,0
+527,Anti-PD-1,200.0,0
+527,CCR2 Antagonist,200.0,0
+527,Combination,200.0,0
+528,No Treatment,40.93,1
+528,Anti-PD-1,48.87,1
+528,CCR2 Antagonist,44.35,1
+528,Combination,65.88,1
+529,No Treatment,20.02,1
+529,Anti-PD-1,20.28,1
+529,CCR2 Antagonist,20.1,1
+529,Combination,20.38,1
+530,No Treatment,200.0,0
+530,Anti-PD-1,200.0,0
+530,CCR2 Antagonist,200.0,0
+530,Combination,200.0,0
+531,No Treatment,34.8,1
+531,Anti-PD-1,44.5,1
+531,CCR2 Antagonist,36.9,1
+531,Combination,53.52,1
+532,No Treatment,200.0,0
+532,Anti-PD-1,200.0,0
+532,CCR2 Antagonist,200.0,0
+532,Combination,200.0,0
+533,No Treatment,68.55,1
+533,Anti-PD-1,200.0,0
+533,CCR2 Antagonist,200.0,0
+533,Combination,200.0,0
+534,No Treatment,200.0,0
+534,Anti-PD-1,200.0,0
+534,CCR2 Antagonist,200.0,0
+534,Combination,200.0,0
+535,No Treatment,69.56,1
+535,Anti-PD-1,70.63,1
+535,CCR2 Antagonist,69.98,1
+535,Combination,71.07,1
+536,No Treatment,14.22,1
+536,Anti-PD-1,14.74,1
+536,CCR2 Antagonist,14.5,1
+536,Combination,15.4,1
+537,No Treatment,200.0,0
+537,Anti-PD-1,200.0,0
+537,CCR2 Antagonist,200.0,0
+537,Combination,200.0,0
+538,No Treatment,35.54,1
+538,Anti-PD-1,35.84,1
+538,CCR2 Antagonist,35.7,1
+538,Combination,36.0,1
+539,No Treatment,27.2,1
+539,Anti-PD-1,27.36,1
+539,CCR2 Antagonist,27.29,1
+539,Combination,27.46,1
+540,No Treatment,20.09,1
+540,Anti-PD-1,21.58,1
+540,CCR2 Antagonist,20.57,1
+540,Combination,23.08,1
+541,No Treatment,34.63,1
+541,Anti-PD-1,35.41,1
+541,CCR2 Antagonist,34.89,1
+541,Combination,35.7,1
+542,No Treatment,200.0,0
+542,Anti-PD-1,200.0,0
+542,CCR2 Antagonist,200.0,0
+542,Combination,200.0,0
+543,No Treatment,44.51,1
+543,Anti-PD-1,50.38,1
+543,CCR2 Antagonist,46.13,1
+543,Combination,53.0,1
+544,No Treatment,200.0,0
+544,Anti-PD-1,200.0,0
+544,CCR2 Antagonist,200.0,0
+544,Combination,200.0,0
+545,No Treatment,80.4,1
+545,Anti-PD-1,200.0,0
+545,CCR2 Antagonist,147.72,1
+545,Combination,200.0,0
+546,No Treatment,62.32,0
+546,Anti-PD-1,62.32,0
+546,CCR2 Antagonist,62.32,0
+546,Combination,62.32,0
+547,No Treatment,200.0,0
+547,Anti-PD-1,200.0,0
+547,CCR2 Antagonist,200.0,0
+547,Combination,200.0,0
+548,No Treatment,23.21,1
+548,Anti-PD-1,27.67,1
+548,CCR2 Antagonist,25.63,1
+548,Combination,37.4,1
+549,No Treatment,66.33,1
+549,Anti-PD-1,200.0,0
+549,CCR2 Antagonist,129.13,1
+549,Combination,200.0,0
+550,No Treatment,18.04,1
+550,Anti-PD-1,18.24,1
+550,CCR2 Antagonist,18.18,1
+550,Combination,18.4,1
+551,No Treatment,30.0,1
+551,Anti-PD-1,200.0,0
+551,CCR2 Antagonist,41.65,1
+551,Combination,200.0,0
+552,No Treatment,46.93,1
+552,Anti-PD-1,51.76,1
+552,CCR2 Antagonist,48.82,1
+552,Combination,54.67,1
+553,No Treatment,18.03,1
+553,Anti-PD-1,18.38,1
+553,CCR2 Antagonist,18.16,1
+553,Combination,18.54,1
+554,No Treatment,200.0,0
+554,Anti-PD-1,200.0,0
+554,CCR2 Antagonist,200.0,0
+554,Combination,200.0,0
+555,No Treatment,124.93,0
+555,Anti-PD-1,124.93,0
+555,CCR2 Antagonist,124.93,0
+555,Combination,124.93,0
+556,No Treatment,51.09,1
+556,Anti-PD-1,200.0,0
+556,CCR2 Antagonist,62.58,1
+556,Combination,200.0,0
+557,No Treatment,30.73,1
+557,Anti-PD-1,31.25,1
+557,CCR2 Antagonist,30.89,1
+557,Combination,31.68,1
+558,No Treatment,31.45,1
+558,Anti-PD-1,31.81,1
+558,CCR2 Antagonist,31.58,1
+558,Combination,32.12,1
+559,No Treatment,89.25,1
+559,Anti-PD-1,200.0,0
+559,CCR2 Antagonist,159.23,1
+559,Combination,200.0,0
+560,No Treatment,77.14,1
+560,Anti-PD-1,85.59,1
+560,CCR2 Antagonist,80.34,1
+560,Combination,90.24,1
+561,No Treatment,200.0,0
+561,Anti-PD-1,200.0,0
+561,CCR2 Antagonist,200.0,0
+561,Combination,200.0,0
+562,No Treatment,200.0,0
+562,Anti-PD-1,200.0,0
+562,CCR2 Antagonist,200.0,0
+562,Combination,200.0,0
+563,No Treatment,200.0,0
+563,Anti-PD-1,200.0,0
+563,CCR2 Antagonist,200.0,0
+563,Combination,200.0,0
+564,No Treatment,63.9,1
+564,Anti-PD-1,98.25,1
+564,CCR2 Antagonist,73.42,1
+564,Combination,200.0,0
+565,No Treatment,82.79,1
+565,Anti-PD-1,200.0,0
+565,CCR2 Antagonist,105.7,1
+565,Combination,200.0,0
+566,No Treatment,15.88,1
+566,Anti-PD-1,17.84,1
+566,CCR2 Antagonist,16.55,1
+566,Combination,19.92,1
+567,No Treatment,200.0,0
+567,Anti-PD-1,200.0,0
+567,CCR2 Antagonist,200.0,0
+567,Combination,200.0,0
+568,No Treatment,25.66,1
+568,Anti-PD-1,46.38,1
+568,CCR2 Antagonist,29.91,1
+568,Combination,200.0,0
+569,No Treatment,64.44,1
+569,Anti-PD-1,65.05,1
+569,CCR2 Antagonist,64.73,1
+569,Combination,65.35,1
+570,No Treatment,200.0,0
+570,Anti-PD-1,200.0,0
+570,CCR2 Antagonist,200.0,0
+570,Combination,200.0,0
+571,No Treatment,62.94,1
+571,Anti-PD-1,96.01,1
+571,CCR2 Antagonist,69.15,1
+571,Combination,200.0,0
+572,No Treatment,89.4,1
+572,Anti-PD-1,200.0,0
+572,CCR2 Antagonist,200.0,0
+572,Combination,200.0,0
+573,No Treatment,65.15,1
+573,Anti-PD-1,200.0,0
+573,CCR2 Antagonist,200.0,0
+573,Combination,200.0,0
+574,No Treatment,92.19,1
+574,Anti-PD-1,200.0,0
+574,CCR2 Antagonist,200.0,0
+574,Combination,200.0,0
+575,No Treatment,200.0,0
+575,Anti-PD-1,200.0,0
+575,CCR2 Antagonist,200.0,0
+575,Combination,200.0,0
+576,No Treatment,200.0,0
+576,Anti-PD-1,200.0,0
+576,CCR2 Antagonist,200.0,0
+576,Combination,200.0,0
+577,No Treatment,21.43,1
+577,Anti-PD-1,22.01,1
+577,CCR2 Antagonist,21.77,1
+577,Combination,22.41,1
+578,No Treatment,200.0,0
+578,Anti-PD-1,200.0,0
+578,CCR2 Antagonist,200.0,0
+578,Combination,200.0,0
+579,No Treatment,32.92,1
+579,Anti-PD-1,46.6,1
+579,CCR2 Antagonist,36.51,1
+579,Combination,67.15,1
+580,No Treatment,40.09,1
+580,Anti-PD-1,67.24,1
+580,CCR2 Antagonist,45.63,1
+580,Combination,127.09,1
+581,No Treatment,22.96,1
+581,Anti-PD-1,23.35,1
+581,CCR2 Antagonist,23.1,1
+581,Combination,23.77,1
+582,No Treatment,42.96,1
+582,Anti-PD-1,44.35,1
+582,CCR2 Antagonist,43.78,1
+582,Combination,45.32,1
+583,No Treatment,14.16,1
+583,Anti-PD-1,18.53,1
+583,CCR2 Antagonist,15.06,1
+583,Combination,23.1,1
+584,No Treatment,200.0,0
+584,Anti-PD-1,200.0,0
+584,CCR2 Antagonist,200.0,0
+584,Combination,200.0,0
+585,No Treatment,30.78,1
+585,Anti-PD-1,33.52,1
+585,CCR2 Antagonist,31.98,1
+585,Combination,35.22,1
+586,No Treatment,45.64,1
+586,Anti-PD-1,200.0,0
+586,CCR2 Antagonist,62.97,1
+586,Combination,200.0,0
+587,No Treatment,16.79,1
+587,Anti-PD-1,18.41,1
+587,CCR2 Antagonist,17.22,1
+587,Combination,19.87,1
+588,No Treatment,69.8,1
+588,Anti-PD-1,70.6,0
+588,CCR2 Antagonist,70.6,0
+588,Combination,70.6,0
+589,No Treatment,11.21,1
+589,Anti-PD-1,13.42,1
+589,CCR2 Antagonist,11.78,1
+589,Combination,15.49,1
+590,No Treatment,50.48,1
+590,Anti-PD-1,51.43,1
+590,CCR2 Antagonist,50.92,1
+590,Combination,51.97,1
+591,No Treatment,22.21,1
+591,Anti-PD-1,33.74,1
+591,CCR2 Antagonist,26.99,1
+591,Combination,70.54,1
+592,No Treatment,200.0,0
+592,Anti-PD-1,200.0,0
+592,CCR2 Antagonist,200.0,0
+592,Combination,200.0,0
+593,No Treatment,26.36,1
+593,Anti-PD-1,37.0,1
+593,CCR2 Antagonist,29.03,1
+593,Combination,200.0,0
+594,No Treatment,200.0,0
+594,Anti-PD-1,200.0,0
+594,CCR2 Antagonist,200.0,0
+594,Combination,200.0,0
+595,No Treatment,200.0,0
+595,Anti-PD-1,200.0,0
+595,CCR2 Antagonist,200.0,0
+595,Combination,200.0,0
+596,No Treatment,200.0,0
+596,Anti-PD-1,200.0,0
+596,CCR2 Antagonist,200.0,0
+596,Combination,200.0,0
+597,No Treatment,87.91,1
+597,Anti-PD-1,114.35,0
+597,CCR2 Antagonist,114.35,0
+597,Combination,114.35,0
+598,No Treatment,56.19,1
+598,Anti-PD-1,83.14,1
+598,CCR2 Antagonist,62.23,1
+598,Combination,200.0,0
+599,No Treatment,200.0,0
+599,Anti-PD-1,200.0,0
+599,CCR2 Antagonist,200.0,0
+599,Combination,200.0,0
+600,No Treatment,200.0,0
+600,Anti-PD-1,200.0,0
+600,CCR2 Antagonist,200.0,0
+600,Combination,200.0,0
+601,No Treatment,200.0,0
+601,Anti-PD-1,200.0,0
+601,CCR2 Antagonist,200.0,0
+601,Combination,200.0,0
+602,No Treatment,200.0,0
+602,Anti-PD-1,200.0,0
+602,CCR2 Antagonist,200.0,0
+602,Combination,200.0,0
+603,No Treatment,39.35,1
+603,Anti-PD-1,42.0,1
+603,CCR2 Antagonist,40.21,1
+603,Combination,43.18,1
+604,No Treatment,200.0,0
+604,Anti-PD-1,200.0,0
+604,CCR2 Antagonist,200.0,0
+604,Combination,200.0,0
+605,No Treatment,21.88,0
+605,Anti-PD-1,21.88,0
+605,CCR2 Antagonist,21.88,0
+605,Combination,21.88,0
+606,No Treatment,41.05,1
+606,Anti-PD-1,41.92,1
+606,CCR2 Antagonist,41.49,1
+606,Combination,42.41,1
+607,No Treatment,200.0,0
+607,Anti-PD-1,200.0,0
+607,CCR2 Antagonist,200.0,0
+607,Combination,200.0,0
+608,No Treatment,30.15,1
+608,Anti-PD-1,30.25,1
+608,CCR2 Antagonist,30.19,1
+608,Combination,30.29,1
+609,No Treatment,24.03,1
+609,Anti-PD-1,24.49,1
+609,CCR2 Antagonist,24.26,1
+609,Combination,24.78,1
+610,No Treatment,200.0,0
+610,Anti-PD-1,200.0,0
+610,CCR2 Antagonist,200.0,0
+610,Combination,200.0,0
+611,No Treatment,26.69,1
+611,Anti-PD-1,27.02,1
+611,CCR2 Antagonist,26.93,1
+611,Combination,27.29,1
+612,No Treatment,40.44,1
+612,Anti-PD-1,200.0,0
+612,CCR2 Antagonist,50.54,1
+612,Combination,200.0,0
+613,No Treatment,87.74,1
+613,Anti-PD-1,200.0,0
+613,CCR2 Antagonist,200.0,0
+613,Combination,200.0,0
+614,No Treatment,20.48,1
+614,Anti-PD-1,20.55,1
+614,CCR2 Antagonist,20.5,1
+614,Combination,20.58,1
+615,No Treatment,200.0,0
+615,Anti-PD-1,200.0,0
+615,CCR2 Antagonist,200.0,0
+615,Combination,200.0,0
+616,No Treatment,27.46,1
+616,Anti-PD-1,32.76,1
+616,CCR2 Antagonist,29.66,1
+616,Combination,41.49,1
+617,No Treatment,33.52,1
+617,Anti-PD-1,43.36,1
+617,CCR2 Antagonist,36.71,1
+617,Combination,61.72,1
+618,No Treatment,34.53,1
+618,Anti-PD-1,35.0,1
+618,CCR2 Antagonist,34.7,1
+618,Combination,35.18,1
+619,No Treatment,200.0,0
+619,Anti-PD-1,200.0,0
+619,CCR2 Antagonist,200.0,0
+619,Combination,200.0,0
+620,No Treatment,23.23,1
+620,Anti-PD-1,26.2,1
+620,CCR2 Antagonist,23.93,1
+620,Combination,28.47,1
+621,No Treatment,12.87,1
+621,Anti-PD-1,13.07,1
+621,CCR2 Antagonist,12.98,1
+621,Combination,13.2,1
+622,No Treatment,71.98,0
+622,Anti-PD-1,71.98,0
+622,CCR2 Antagonist,71.98,0
+622,Combination,71.98,0
+623,No Treatment,22.58,0
+623,Anti-PD-1,22.58,0
+623,CCR2 Antagonist,22.58,0
+623,Combination,22.58,0
+624,No Treatment,37.02,1
+624,Anti-PD-1,41.61,1
+624,CCR2 Antagonist,39.07,1
+624,Combination,45.19,1
+625,No Treatment,0.62,0
+625,Anti-PD-1,0.62,0
+625,CCR2 Antagonist,0.62,0
+625,Combination,0.62,0
+626,No Treatment,22.89,1
+626,Anti-PD-1,200.0,0
+626,CCR2 Antagonist,25.92,1
+626,Combination,200.0,0
+627,No Treatment,200.0,0
+627,Anti-PD-1,200.0,0
+627,CCR2 Antagonist,200.0,0
+627,Combination,200.0,0
+628,No Treatment,76.48,1
+628,Anti-PD-1,200.0,0
+628,CCR2 Antagonist,142.15,1
+628,Combination,200.0,0
+629,No Treatment,33.41,1
+629,Anti-PD-1,34.61,1
+629,CCR2 Antagonist,34.02,1
+629,Combination,35.39,1
+630,No Treatment,24.9,1
+630,Anti-PD-1,38.1,1
+630,CCR2 Antagonist,28.38,1
+630,Combination,91.35,1
+631,No Treatment,36.79,1
+631,Anti-PD-1,37.83,1
+631,CCR2 Antagonist,37.08,1
+631,Combination,38.2,1
+632,No Treatment,47.13,1
+632,Anti-PD-1,200.0,0
+632,CCR2 Antagonist,56.77,1
+632,Combination,200.0,0
+633,No Treatment,200.0,0
+633,Anti-PD-1,200.0,0
+633,CCR2 Antagonist,200.0,0
+633,Combination,200.0,0
+634,No Treatment,64.78,1
+634,Anti-PD-1,71.02,1
+634,CCR2 Antagonist,67.82,1
+634,Combination,79.74,1
+635,No Treatment,50.19,1
+635,Anti-PD-1,200.0,0
+635,CCR2 Antagonist,113.73,1
+635,Combination,200.0,0
+636,No Treatment,200.0,0
+636,Anti-PD-1,200.0,0
+636,CCR2 Antagonist,200.0,0
+636,Combination,200.0,0
+637,No Treatment,200.0,0
+637,Anti-PD-1,200.0,0
+637,CCR2 Antagonist,200.0,0
+637,Combination,200.0,0
+638,No Treatment,200.0,0
+638,Anti-PD-1,200.0,0
+638,CCR2 Antagonist,200.0,0
+638,Combination,200.0,0
+639,No Treatment,32.17,1
+639,Anti-PD-1,35.62,1
+639,CCR2 Antagonist,33.88,1
+639,Combination,38.05,1
+640,No Treatment,200.0,0
+640,Anti-PD-1,200.0,0
+640,CCR2 Antagonist,200.0,0
+640,Combination,200.0,0
+641,No Treatment,10.18,1
+641,Anti-PD-1,10.51,1
+641,CCR2 Antagonist,10.28,1
+641,Combination,10.77,1
+642,No Treatment,200.0,0
+642,Anti-PD-1,200.0,0
+642,CCR2 Antagonist,200.0,0
+642,Combination,200.0,0
+643,No Treatment,25.16,1
+643,Anti-PD-1,26.11,1
+643,CCR2 Antagonist,25.6,1
+643,Combination,27.29,1
+644,No Treatment,22.93,1
+644,Anti-PD-1,24.08,1
+644,CCR2 Antagonist,23.21,1
+644,Combination,24.93,1
+645,No Treatment,34.39,1
+645,Anti-PD-1,56.72,1
+645,CCR2 Antagonist,39.49,1
+645,Combination,156.79,1
+646,No Treatment,47.09,1
+646,Anti-PD-1,57.33,1
+646,CCR2 Antagonist,52.72,1
+646,Combination,85.98,1
+647,No Treatment,200.0,0
+647,Anti-PD-1,200.0,0
+647,CCR2 Antagonist,200.0,0
+647,Combination,200.0,0
+648,No Treatment,90.22,1
+648,Anti-PD-1,162.08,1
+648,CCR2 Antagonist,103.55,1
+648,Combination,200.0,0
+649,No Treatment,26.0,1
+649,Anti-PD-1,29.28,1
+649,CCR2 Antagonist,26.88,1
+649,Combination,31.89,1
+650,No Treatment,200.0,0
+650,Anti-PD-1,200.0,0
+650,CCR2 Antagonist,200.0,0
+650,Combination,200.0,0
+651,No Treatment,25.8,1
+651,Anti-PD-1,32.69,1
+651,CCR2 Antagonist,27.86,1
+651,Combination,40.2,1
+652,No Treatment,20.23,1
+652,Anti-PD-1,47.44,1
+652,CCR2 Antagonist,23.22,1
+652,Combination,200.0,0
+653,No Treatment,200.0,0
+653,Anti-PD-1,200.0,0
+653,CCR2 Antagonist,200.0,0
+653,Combination,200.0,0
+654,No Treatment,200.0,0
+654,Anti-PD-1,200.0,0
+654,CCR2 Antagonist,200.0,0
+654,Combination,200.0,0
+655,No Treatment,118.93,1
+655,Anti-PD-1,145.38,1
+655,CCR2 Antagonist,127.19,1
+655,Combination,160.87,1
+656,No Treatment,200.0,0
+656,Anti-PD-1,200.0,0
+656,CCR2 Antagonist,200.0,0
+656,Combination,200.0,0
+657,No Treatment,49.34,1
+657,Anti-PD-1,80.01,1
+657,CCR2 Antagonist,62.53,1
+657,Combination,200.0,0
+658,No Treatment,21.94,1
+658,Anti-PD-1,29.48,1
+658,CCR2 Antagonist,23.99,1
+658,Combination,38.26,1
+659,No Treatment,61.96,1
+659,Anti-PD-1,200.0,0
+659,CCR2 Antagonist,126.02,1
+659,Combination,200.0,0
+660,No Treatment,39.28,1
+660,Anti-PD-1,39.64,1
+660,CCR2 Antagonist,39.45,1
+660,Combination,39.83,1
+661,No Treatment,92.83,1
+661,Anti-PD-1,200.0,0
+661,CCR2 Antagonist,117.96,1
+661,Combination,200.0,0
+662,No Treatment,23.08,1
+662,Anti-PD-1,24.18,1
+662,CCR2 Antagonist,23.53,1
+662,Combination,24.73,1
+663,No Treatment,66.63,1
+663,Anti-PD-1,200.0,0
+663,CCR2 Antagonist,180.49,1
+663,Combination,200.0,0
+664,No Treatment,3.13,0
+664,Anti-PD-1,3.13,0
+664,CCR2 Antagonist,3.13,0
+664,Combination,3.13,0
+665,No Treatment,200.0,0
+665,Anti-PD-1,200.0,0
+665,CCR2 Antagonist,200.0,0
+665,Combination,200.0,0
+666,No Treatment,59.22,1
+666,Anti-PD-1,60.38,1
+666,CCR2 Antagonist,59.65,1
+666,Combination,60.84,1
+667,No Treatment,200.0,0
+667,Anti-PD-1,200.0,0
+667,CCR2 Antagonist,200.0,0
+667,Combination,200.0,0
+668,No Treatment,68.17,1
+668,Anti-PD-1,200.0,0
+668,CCR2 Antagonist,200.0,0
+668,Combination,200.0,0
+669,No Treatment,36.9,1
+669,Anti-PD-1,44.23,1
+669,CCR2 Antagonist,38.56,1
+669,Combination,52.14,1
+670,No Treatment,70.27,1
+670,Anti-PD-1,200.0,0
+670,CCR2 Antagonist,91.84,1
+670,Combination,200.0,0
+671,No Treatment,200.0,0
+671,Anti-PD-1,200.0,0
+671,CCR2 Antagonist,200.0,0
+671,Combination,200.0,0
+672,No Treatment,58.54,1
+672,Anti-PD-1,200.0,0
+672,CCR2 Antagonist,139.98,1
+672,Combination,200.0,0
+673,No Treatment,200.0,0
+673,Anti-PD-1,200.0,0
+673,CCR2 Antagonist,200.0,0
+673,Combination,200.0,0
+674,No Treatment,13.65,1
+674,Anti-PD-1,13.66,1
+674,CCR2 Antagonist,13.65,1
+674,Combination,13.66,1
+675,No Treatment,61.95,1
+675,Anti-PD-1,69.87,1
+675,CCR2 Antagonist,64.85,1
+675,Combination,74.04,1
+676,No Treatment,200.0,0
+676,Anti-PD-1,200.0,0
+676,CCR2 Antagonist,200.0,0
+676,Combination,200.0,0
+677,No Treatment,200.0,0
+677,Anti-PD-1,200.0,0
+677,CCR2 Antagonist,200.0,0
+677,Combination,200.0,0
+678,No Treatment,36.43,1
+678,Anti-PD-1,99.6,0
+678,CCR2 Antagonist,44.02,1
+678,Combination,99.6,0
+679,No Treatment,200.0,0
+679,Anti-PD-1,200.0,0
+679,CCR2 Antagonist,200.0,0
+679,Combination,200.0,0
+680,No Treatment,200.0,0
+680,Anti-PD-1,200.0,0
+680,CCR2 Antagonist,200.0,0
+680,Combination,200.0,0
+681,No Treatment,54.97,1
+681,Anti-PD-1,71.18,1
+681,CCR2 Antagonist,58.8,1
+681,Combination,86.36,1
+682,No Treatment,46.81,1
+682,Anti-PD-1,49.91,1
+682,CCR2 Antagonist,48.05,1
+682,Combination,51.71,1
+683,No Treatment,200.0,0
+683,Anti-PD-1,200.0,0
+683,CCR2 Antagonist,200.0,0
+683,Combination,200.0,0
+684,No Treatment,200.0,0
+684,Anti-PD-1,200.0,0
+684,CCR2 Antagonist,200.0,0
+684,Combination,200.0,0
+685,No Treatment,75.34,1
+685,Anti-PD-1,83.5,1
+685,CCR2 Antagonist,80.71,1
+685,Combination,92.75,1
+686,No Treatment,63.47,1
+686,Anti-PD-1,200.0,0
+686,CCR2 Antagonist,200.0,0
+686,Combination,200.0,0
+687,No Treatment,51.11,1
+687,Anti-PD-1,62.46,1
+687,CCR2 Antagonist,54.92,1
+687,Combination,81.53,1
+688,No Treatment,22.21,1
+688,Anti-PD-1,23.32,1
+688,CCR2 Antagonist,22.58,1
+688,Combination,23.8,1
+689,No Treatment,10.83,1
+689,Anti-PD-1,12.67,1
+689,CCR2 Antagonist,11.28,1
+689,Combination,14.48,1
+690,No Treatment,200.0,0
+690,Anti-PD-1,200.0,0
+690,CCR2 Antagonist,200.0,0
+690,Combination,200.0,0
+691,No Treatment,22.97,1
+691,Anti-PD-1,45.58,1
+691,CCR2 Antagonist,26.72,1
+691,Combination,200.0,0
+692,No Treatment,200.0,0
+692,Anti-PD-1,200.0,0
+692,CCR2 Antagonist,200.0,0
+692,Combination,200.0,0
+693,No Treatment,44.09,1
+693,Anti-PD-1,52.99,1
+693,CCR2 Antagonist,46.11,1
+693,Combination,61.52,1
+694,No Treatment,68.74,1
+694,Anti-PD-1,73.89,1
+694,CCR2 Antagonist,71.29,1
+694,Combination,82.48,1
+695,No Treatment,15.77,1
+695,Anti-PD-1,26.77,1
+695,CCR2 Antagonist,17.17,1
+695,Combination,48.02,1
+696,No Treatment,83.59,1
+696,Anti-PD-1,200.0,0
+696,CCR2 Antagonist,186.23,1
+696,Combination,200.0,0
+697,No Treatment,200.0,0
+697,Anti-PD-1,200.0,0
+697,CCR2 Antagonist,200.0,0
+697,Combination,200.0,0
+698,No Treatment,200.0,0
+698,Anti-PD-1,200.0,0
+698,CCR2 Antagonist,200.0,0
+698,Combination,200.0,0
+699,No Treatment,200.0,0
+699,Anti-PD-1,200.0,0
+699,CCR2 Antagonist,200.0,0
+699,Combination,200.0,0
+700,No Treatment,200.0,0
+700,Anti-PD-1,200.0,0
+700,CCR2 Antagonist,200.0,0
+700,Combination,200.0,0
+701,No Treatment,200.0,0
+701,Anti-PD-1,200.0,0
+701,CCR2 Antagonist,200.0,0
+701,Combination,200.0,0
+702,No Treatment,98.47,1
+702,Anti-PD-1,200.0,0
+702,CCR2 Antagonist,200.0,0
+702,Combination,200.0,0
+703,No Treatment,200.0,0
+703,Anti-PD-1,200.0,0
+703,CCR2 Antagonist,200.0,0
+703,Combination,200.0,0
+704,No Treatment,24.64,1
+704,Anti-PD-1,25.09,1
+704,CCR2 Antagonist,24.9,1
+704,Combination,25.38,1
+705,No Treatment,16.44,1
+705,Anti-PD-1,16.66,1
+705,CCR2 Antagonist,16.54,1
+705,Combination,16.77,1
+706,No Treatment,28.67,1
+706,Anti-PD-1,31.56,1
+706,CCR2 Antagonist,29.79,1
+706,Combination,35.02,1
+707,No Treatment,41.03,1
+707,Anti-PD-1,53.84,1
+707,CCR2 Antagonist,44.39,1
+707,Combination,84.99,1
+708,No Treatment,26.87,1
+708,Anti-PD-1,27.65,1
+708,CCR2 Antagonist,27.33,1
+708,Combination,28.19,1
+709,No Treatment,200.0,0
+709,Anti-PD-1,200.0,0
+709,CCR2 Antagonist,200.0,0
+709,Combination,200.0,0
+710,No Treatment,200.0,0
+710,Anti-PD-1,200.0,0
+710,CCR2 Antagonist,200.0,0
+710,Combination,200.0,0
+711,No Treatment,106.06,1
+711,Anti-PD-1,112.59,1
+711,CCR2 Antagonist,109.04,1
+711,Combination,116.46,1
+712,No Treatment,200.0,0
+712,Anti-PD-1,200.0,0
+712,CCR2 Antagonist,200.0,0
+712,Combination,200.0,0
+713,No Treatment,26.05,1
+713,Anti-PD-1,56.43,1
+713,CCR2 Antagonist,33.59,1
+713,Combination,200.0,0
+714,No Treatment,17.1,1
+714,Anti-PD-1,18.55,1
+714,CCR2 Antagonist,17.6,1
+714,Combination,20.14,1
+715,No Treatment,200.0,0
+715,Anti-PD-1,200.0,0
+715,CCR2 Antagonist,200.0,0
+715,Combination,200.0,0
+716,No Treatment,200.0,0
+716,Anti-PD-1,200.0,0
+716,CCR2 Antagonist,200.0,0
+716,Combination,200.0,0
+717,No Treatment,23.59,1
+717,Anti-PD-1,31.52,1
+717,CCR2 Antagonist,27.3,1
+717,Combination,50.69,1
+718,No Treatment,38.17,1
+718,Anti-PD-1,121.11,1
+718,CCR2 Antagonist,69.76,1
+718,Combination,200.0,0
+719,No Treatment,42.28,1
+719,Anti-PD-1,43.61,1
+719,CCR2 Antagonist,42.89,1
+719,Combination,44.41,1
+720,No Treatment,200.0,0
+720,Anti-PD-1,200.0,0
+720,CCR2 Antagonist,200.0,0
+720,Combination,200.0,0
+721,No Treatment,37.21,1
+721,Anti-PD-1,37.69,1
+721,CCR2 Antagonist,37.44,1
+721,Combination,37.94,1
+722,No Treatment,23.99,1
+722,Anti-PD-1,24.91,0
+722,CCR2 Antagonist,24.91,0
+722,Combination,24.91,0
+723,No Treatment,49.19,1
+723,Anti-PD-1,50.46,1
+723,CCR2 Antagonist,49.78,1
+723,Combination,51.18,1
+724,No Treatment,25.13,1
+724,Anti-PD-1,25.16,1
+724,CCR2 Antagonist,25.14,1
+724,Combination,25.17,1
+725,No Treatment,36.32,1
+725,Anti-PD-1,115.84,1
+725,CCR2 Antagonist,53.68,1
+725,Combination,200.0,0
+726,No Treatment,25.36,0
+726,Anti-PD-1,25.36,0
+726,CCR2 Antagonist,25.36,0
+726,Combination,25.36,0
+727,No Treatment,15.38,1
+727,Anti-PD-1,16.53,1
+727,CCR2 Antagonist,15.81,1
+727,Combination,17.64,1
+728,No Treatment,200.0,0
+728,Anti-PD-1,200.0,0
+728,CCR2 Antagonist,200.0,0
+728,Combination,200.0,0
+729,No Treatment,200.0,0
+729,Anti-PD-1,200.0,0
+729,CCR2 Antagonist,200.0,0
+729,Combination,200.0,0
+730,No Treatment,22.47,1
+730,Anti-PD-1,27.94,1
+730,CCR2 Antagonist,23.74,1
+730,Combination,33.58,1
+731,No Treatment,200.0,0
+731,Anti-PD-1,200.0,0
+731,CCR2 Antagonist,200.0,0
+731,Combination,200.0,0
+732,No Treatment,200.0,0
+732,Anti-PD-1,200.0,0
+732,CCR2 Antagonist,200.0,0
+732,Combination,200.0,0
+733,No Treatment,69.72,1
+733,Anti-PD-1,200.0,0
+733,CCR2 Antagonist,200.0,0
+733,Combination,200.0,0
+734,No Treatment,25.87,1
+734,Anti-PD-1,41.17,1
+734,CCR2 Antagonist,30.11,1
+734,Combination,76.27,1
+735,No Treatment,29.25,1
+735,Anti-PD-1,40.43,1
+735,CCR2 Antagonist,34.56,1
+735,Combination,81.98,1
+736,No Treatment,24.85,1
+736,Anti-PD-1,25.38,1
+736,CCR2 Antagonist,25.21,1
+736,Combination,25.78,1
+737,No Treatment,15.92,1
+737,Anti-PD-1,16.07,1
+737,CCR2 Antagonist,16.01,1
+737,Combination,16.16,1
+738,No Treatment,42.65,1
+738,Anti-PD-1,46.35,1
+738,CCR2 Antagonist,43.78,1
+738,Combination,50.05,1
+739,No Treatment,24.41,1
+739,Anti-PD-1,27.67,1
+739,CCR2 Antagonist,25.72,1
+739,Combination,33.9,1
+740,No Treatment,34.7,1
+740,Anti-PD-1,34.81,1
+740,CCR2 Antagonist,34.75,1
+740,Combination,34.87,1
+741,No Treatment,49.76,1
+741,Anti-PD-1,200.0,0
+741,CCR2 Antagonist,63.55,1
+741,Combination,200.0,0
+742,No Treatment,26.38,1
+742,Anti-PD-1,200.0,0
+742,CCR2 Antagonist,47.41,1
+742,Combination,200.0,0
+743,No Treatment,11.59,0
+743,Anti-PD-1,11.59,0
+743,CCR2 Antagonist,11.59,0
+743,Combination,11.59,0
+744,No Treatment,21.52,1
+744,Anti-PD-1,25.72,1
+744,CCR2 Antagonist,23.17,1
+744,Combination,32.52,1
+745,No Treatment,42.73,1
+745,Anti-PD-1,43.5,1
+745,CCR2 Antagonist,43.08,1
+745,Combination,43.88,1
+746,No Treatment,47.74,1
+746,Anti-PD-1,200.0,0
+746,CCR2 Antagonist,200.0,0
+746,Combination,200.0,0
+747,No Treatment,28.35,1
+747,Anti-PD-1,34.34,1
+747,CCR2 Antagonist,32.1,1
+747,Combination,50.95,1
+748,No Treatment,200.0,0
+748,Anti-PD-1,200.0,0
+748,CCR2 Antagonist,200.0,0
+748,Combination,200.0,0
+749,No Treatment,28.46,1
+749,Anti-PD-1,200.0,0
+749,CCR2 Antagonist,42.39,1
+749,Combination,200.0,0
+750,No Treatment,200.0,0
+750,Anti-PD-1,200.0,0
+750,CCR2 Antagonist,200.0,0
+750,Combination,200.0,0
+751,No Treatment,20.49,1
+751,Anti-PD-1,23.13,1
+751,CCR2 Antagonist,21.48,1
+751,Combination,26.47,1
+752,No Treatment,20.86,1
+752,Anti-PD-1,21.47,1
+752,CCR2 Antagonist,21.07,1
+752,Combination,21.73,1
+753,No Treatment,48.13,1
+753,Anti-PD-1,50.67,1
+753,CCR2 Antagonist,48.84,1
+753,Combination,51.61,1
+754,No Treatment,200.0,0
+754,Anti-PD-1,200.0,0
+754,CCR2 Antagonist,200.0,0
+754,Combination,200.0,0
+755,No Treatment,200.0,0
+755,Anti-PD-1,200.0,0
+755,CCR2 Antagonist,200.0,0
+755,Combination,200.0,0
+756,No Treatment,54.42,1
+756,Anti-PD-1,56.31,1
+756,CCR2 Antagonist,54.91,1
+756,Combination,56.96,1
+757,No Treatment,26.28,1
+757,Anti-PD-1,59.53,1
+757,CCR2 Antagonist,31.96,1
+757,Combination,200.0,0
+758,No Treatment,200.0,0
+758,Anti-PD-1,200.0,0
+758,CCR2 Antagonist,200.0,0
+758,Combination,200.0,0
+759,No Treatment,18.24,1
+759,Anti-PD-1,26.53,1
+759,CCR2 Antagonist,21.34,1
+759,Combination,44.17,1
+760,No Treatment,40.38,1
+760,Anti-PD-1,200.0,0
+760,CCR2 Antagonist,53.36,1
+760,Combination,200.0,0
+761,No Treatment,19.85,1
+761,Anti-PD-1,22.59,1
+761,CCR2 Antagonist,20.72,1
+761,Combination,25.83,1
+762,No Treatment,15.49,1
+762,Anti-PD-1,23.05,1
+762,CCR2 Antagonist,17.64,1
+762,Combination,42.16,1
+763,No Treatment,34.89,1
+763,Anti-PD-1,69.68,1
+763,CCR2 Antagonist,41.68,1
+763,Combination,200.0,0
+764,No Treatment,26.68,1
+764,Anti-PD-1,26.84,1
+764,CCR2 Antagonist,26.76,1
+764,Combination,27.04,1
+765,No Treatment,200.0,0
+765,Anti-PD-1,200.0,0
+765,CCR2 Antagonist,200.0,0
+765,Combination,200.0,0
+766,No Treatment,200.0,0
+766,Anti-PD-1,200.0,0
+766,CCR2 Antagonist,200.0,0
+766,Combination,200.0,0
+767,No Treatment,44.05,1
+767,Anti-PD-1,200.0,0
+767,CCR2 Antagonist,200.0,0
+767,Combination,200.0,0
+768,No Treatment,66.77,1
+768,Anti-PD-1,80.59,1
+768,CCR2 Antagonist,74.45,1
+768,Combination,126.01,1
+769,No Treatment,200.0,0
+769,Anti-PD-1,200.0,0
+769,CCR2 Antagonist,200.0,0
+769,Combination,200.0,0
+770,No Treatment,200.0,0
+770,Anti-PD-1,200.0,0
+770,CCR2 Antagonist,200.0,0
+770,Combination,200.0,0
+771,No Treatment,68.22,1
+771,Anti-PD-1,200.0,0
+771,CCR2 Antagonist,100.01,1
+771,Combination,200.0,0
+772,No Treatment,200.0,0
+772,Anti-PD-1,200.0,0
+772,CCR2 Antagonist,200.0,0
+772,Combination,200.0,0
+773,No Treatment,31.63,1
+773,Anti-PD-1,35.17,1
+773,CCR2 Antagonist,33.37,1
+773,Combination,39.54,1
+774,No Treatment,143.23,1
+774,Anti-PD-1,200.0,0
+774,CCR2 Antagonist,200.0,0
+774,Combination,200.0,0
+775,No Treatment,200.0,0
+775,Anti-PD-1,200.0,0
+775,CCR2 Antagonist,200.0,0
+775,Combination,200.0,0
+776,No Treatment,40.44,1
+776,Anti-PD-1,89.15,1
+776,CCR2 Antagonist,52.14,1
+776,Combination,102.85,0
+777,No Treatment,200.0,0
+777,Anti-PD-1,200.0,0
+777,CCR2 Antagonist,200.0,0
+777,Combination,200.0,0
+778,No Treatment,17.02,1
+778,Anti-PD-1,20.9,1
+778,CCR2 Antagonist,18.34,1
+778,Combination,26.57,1
+779,No Treatment,28.74,1
+779,Anti-PD-1,28.85,1
+779,CCR2 Antagonist,28.81,1
+779,Combination,28.92,1
+780,No Treatment,22.09,1
+780,Anti-PD-1,25.48,1
+780,CCR2 Antagonist,23.66,1
+780,Combination,30.56,1
+781,No Treatment,32.92,1
+781,Anti-PD-1,48.51,1
+781,CCR2 Antagonist,36.72,1
+781,Combination,89.52,1
+782,No Treatment,28.92,0
+782,Anti-PD-1,28.92,0
+782,CCR2 Antagonist,28.92,0
+782,Combination,28.92,0
+783,No Treatment,19.61,1
+783,Anti-PD-1,19.69,1
+783,CCR2 Antagonist,19.65,1
+783,Combination,19.74,1
+784,No Treatment,32.63,1
+784,Anti-PD-1,45.39,1
+784,CCR2 Antagonist,35.67,1
+784,Combination,63.07,1
+785,No Treatment,53.95,1
+785,Anti-PD-1,200.0,0
+785,CCR2 Antagonist,200.0,0
+785,Combination,200.0,0
+786,No Treatment,39.41,1
+786,Anti-PD-1,73.8,1
+786,CCR2 Antagonist,47.56,1
+786,Combination,200.0,0
+787,No Treatment,200.0,0
+787,Anti-PD-1,200.0,0
+787,CCR2 Antagonist,200.0,0
+787,Combination,200.0,0
+788,No Treatment,200.0,0
+788,Anti-PD-1,200.0,0
+788,CCR2 Antagonist,200.0,0
+788,Combination,200.0,0
+789,No Treatment,28.45,1
+789,Anti-PD-1,28.55,1
+789,CCR2 Antagonist,28.49,1
+789,Combination,28.6,1
+790,No Treatment,55.31,1
+790,Anti-PD-1,65.16,1
+790,CCR2 Antagonist,58.66,1
+790,Combination,72.19,1
+791,No Treatment,67.26,1
+791,Anti-PD-1,200.0,0
+791,CCR2 Antagonist,200.0,0
+791,Combination,200.0,0
+792,No Treatment,56.26,1
+792,Anti-PD-1,200.0,0
+792,CCR2 Antagonist,200.0,0
+792,Combination,200.0,0
+793,No Treatment,200.0,0
+793,Anti-PD-1,200.0,0
+793,CCR2 Antagonist,200.0,0
+793,Combination,200.0,0
+794,No Treatment,52.8,1
+794,Anti-PD-1,52.93,1
+794,CCR2 Antagonist,52.85,1
+794,Combination,52.99,1
+795,No Treatment,56.96,1
+795,Anti-PD-1,58.09,1
+795,CCR2 Antagonist,57.47,1
+795,Combination,58.72,1
+796,No Treatment,19.34,1
+796,Anti-PD-1,26.28,1
+796,CCR2 Antagonist,21.51,1
+796,Combination,36.52,1
+797,No Treatment,49.77,1
+797,Anti-PD-1,200.0,0
+797,CCR2 Antagonist,71.08,1
+797,Combination,200.0,0
+798,No Treatment,138.78,1
+798,Anti-PD-1,200.0,0
+798,CCR2 Antagonist,198.19,1
+798,Combination,200.0,0
+799,No Treatment,42.11,1
+799,Anti-PD-1,43.76,1
+799,CCR2 Antagonist,42.83,1
+799,Combination,44.73,1
+800,No Treatment,38.57,1
+800,Anti-PD-1,56.02,1
+800,CCR2 Antagonist,42.5,1
+800,Combination,82.87,1
+801,No Treatment,200.0,0
+801,Anti-PD-1,200.0,0
+801,CCR2 Antagonist,200.0,0
+801,Combination,200.0,0
+802,No Treatment,25.73,1
+802,Anti-PD-1,200.0,0
+802,CCR2 Antagonist,34.92,1
+802,Combination,200.0,0
+803,No Treatment,200.0,0
+803,Anti-PD-1,200.0,0
+803,CCR2 Antagonist,200.0,0
+803,Combination,200.0,0
+804,No Treatment,200.0,0
+804,Anti-PD-1,200.0,0
+804,CCR2 Antagonist,200.0,0
+804,Combination,200.0,0
+805,No Treatment,27.49,1
+805,Anti-PD-1,46.75,1
+805,CCR2 Antagonist,31.04,1
+805,Combination,114.99,1
+806,No Treatment,9.86,1
+806,Anti-PD-1,10.97,1
+806,CCR2 Antagonist,10.32,1
+806,Combination,12.15,1
+807,No Treatment,32.53,1
+807,Anti-PD-1,33.57,1
+807,CCR2 Antagonist,32.99,1
+807,Combination,34.15,1
+808,No Treatment,171.14,1
+808,Anti-PD-1,200.0,0
+808,CCR2 Antagonist,200.0,0
+808,Combination,200.0,0
+809,No Treatment,70.66,1
+809,Anti-PD-1,200.0,0
+809,CCR2 Antagonist,200.0,0
+809,Combination,200.0,0
+810,No Treatment,200.0,0
+810,Anti-PD-1,200.0,0
+810,CCR2 Antagonist,200.0,0
+810,Combination,200.0,0
+811,No Treatment,36.33,1
+811,Anti-PD-1,40.09,1
+811,CCR2 Antagonist,37.83,1
+811,Combination,45.23,1
+812,No Treatment,34.61,1
+812,Anti-PD-1,200.0,0
+812,CCR2 Antagonist,53.28,1
+812,Combination,200.0,0
+813,No Treatment,200.0,0
+813,Anti-PD-1,200.0,0
+813,CCR2 Antagonist,200.0,0
+813,Combination,200.0,0
+814,No Treatment,70.9,1
+814,Anti-PD-1,91.18,1
+814,CCR2 Antagonist,75.52,1
+814,Combination,108.41,0
+815,No Treatment,22.79,1
+815,Anti-PD-1,22.93,1
+815,CCR2 Antagonist,22.86,1
+815,Combination,23.01,1
+816,No Treatment,200.0,0
+816,Anti-PD-1,200.0,0
+816,CCR2 Antagonist,200.0,0
+816,Combination,200.0,0
+817,No Treatment,32.96,1
+817,Anti-PD-1,35.72,1
+817,CCR2 Antagonist,33.95,1
+817,Combination,40.47,1
+818,No Treatment,39.83,1
+818,Anti-PD-1,41.48,1
+818,CCR2 Antagonist,40.62,1
+818,Combination,42.42,1
+819,No Treatment,19.18,0
+819,Anti-PD-1,19.18,0
+819,CCR2 Antagonist,19.18,0
+819,Combination,19.18,0
+820,No Treatment,114.3,1
+820,Anti-PD-1,140.28,1
+820,CCR2 Antagonist,118.58,1
+820,Combination,147.98,1
+821,No Treatment,44.2,1
+821,Anti-PD-1,200.0,0
+821,CCR2 Antagonist,86.6,1
+821,Combination,200.0,0
+822,No Treatment,25.41,1
+822,Anti-PD-1,29.03,1
+822,CCR2 Antagonist,26.42,1
+822,Combination,32.65,1
+823,No Treatment,72.36,1
+823,Anti-PD-1,200.0,0
+823,CCR2 Antagonist,200.0,0
+823,Combination,200.0,0
+824,No Treatment,200.0,0
+824,Anti-PD-1,200.0,0
+824,CCR2 Antagonist,200.0,0
+824,Combination,200.0,0
+825,No Treatment,22.36,1
+825,Anti-PD-1,23.02,1
+825,CCR2 Antagonist,22.75,1
+825,Combination,23.48,1
+826,No Treatment,200.0,0
+826,Anti-PD-1,200.0,0
+826,CCR2 Antagonist,200.0,0
+826,Combination,200.0,0
+827,No Treatment,200.0,0
+827,Anti-PD-1,200.0,0
+827,CCR2 Antagonist,200.0,0
+827,Combination,200.0,0
+828,No Treatment,29.23,1
+828,Anti-PD-1,32.04,1
+828,CCR2 Antagonist,30.52,1
+828,Combination,36.06,1
+829,No Treatment,12.75,1
+829,Anti-PD-1,13.93,1
+829,CCR2 Antagonist,13.24,1
+829,Combination,15.52,1
+830,No Treatment,56.53,1
+830,Anti-PD-1,200.0,0
+830,CCR2 Antagonist,91.75,1
+830,Combination,200.0,0
+831,No Treatment,200.0,0
+831,Anti-PD-1,200.0,0
+831,CCR2 Antagonist,200.0,0
+831,Combination,200.0,0
+832,No Treatment,23.55,1
+832,Anti-PD-1,23.56,1
+832,CCR2 Antagonist,23.55,1
+832,Combination,23.57,1
+833,No Treatment,86.66,1
+833,Anti-PD-1,200.0,0
+833,CCR2 Antagonist,200.0,0
+833,Combination,200.0,0
+834,No Treatment,88.14,1
+834,Anti-PD-1,200.0,0
+834,CCR2 Antagonist,99.61,1
+834,Combination,200.0,0
+835,No Treatment,200.0,0
+835,Anti-PD-1,200.0,0
+835,CCR2 Antagonist,200.0,0
+835,Combination,200.0,0
+836,No Treatment,200.0,0
+836,Anti-PD-1,200.0,0
+836,CCR2 Antagonist,200.0,0
+836,Combination,200.0,0
+837,No Treatment,48.41,1
+837,Anti-PD-1,58.84,1
+837,CCR2 Antagonist,52.17,1
+837,Combination,91.47,1
+838,No Treatment,200.0,0
+838,Anti-PD-1,200.0,0
+838,CCR2 Antagonist,200.0,0
+838,Combination,200.0,0
+839,No Treatment,200.0,0
+839,Anti-PD-1,200.0,0
+839,CCR2 Antagonist,200.0,0
+839,Combination,200.0,0
+840,No Treatment,47.4,1
+840,Anti-PD-1,48.1,1
+840,CCR2 Antagonist,47.76,1
+840,Combination,48.48,1
+841,No Treatment,79.96,1
+841,Anti-PD-1,200.0,0
+841,CCR2 Antagonist,174.97,1
+841,Combination,200.0,0
+842,No Treatment,16.58,1
+842,Anti-PD-1,17.3,1
+842,CCR2 Antagonist,16.9,1
+842,Combination,18.16,1
+843,No Treatment,27.8,1
+843,Anti-PD-1,39.18,1
+843,CCR2 Antagonist,31.82,1
+843,Combination,70.14,1
+844,No Treatment,49.14,1
+844,Anti-PD-1,200.0,0
+844,CCR2 Antagonist,60.52,1
+844,Combination,200.0,0
+845,No Treatment,36.86,1
+845,Anti-PD-1,37.64,1
+845,CCR2 Antagonist,37.21,1
+845,Combination,38.1,1
+846,No Treatment,200.0,0
+846,Anti-PD-1,200.0,0
+846,CCR2 Antagonist,200.0,0
+846,Combination,200.0,0
+847,No Treatment,48.07,1
+847,Anti-PD-1,48.43,1
+847,CCR2 Antagonist,48.21,1
+847,Combination,48.57,1
+848,No Treatment,39.89,1
+848,Anti-PD-1,200.0,0
+848,CCR2 Antagonist,55.86,1
+848,Combination,200.0,0
+849,No Treatment,200.0,0
+849,Anti-PD-1,200.0,0
+849,CCR2 Antagonist,200.0,0
+849,Combination,200.0,0
+850,No Treatment,34.14,1
+850,Anti-PD-1,133.53,0
+850,CCR2 Antagonist,54.16,1
+850,Combination,133.53,0
+851,No Treatment,27.07,1
+851,Anti-PD-1,45.83,1
+851,CCR2 Antagonist,29.6,1
+851,Combination,200.0,0
+852,No Treatment,25.97,1
+852,Anti-PD-1,31.88,1
+852,CCR2 Antagonist,27.96,1
+852,Combination,42.25,1
+853,No Treatment,24.88,1
+853,Anti-PD-1,28.99,1
+853,CCR2 Antagonist,26.08,1
+853,Combination,33.48,1
+854,No Treatment,200.0,0
+854,Anti-PD-1,200.0,0
+854,CCR2 Antagonist,200.0,0
+854,Combination,200.0,0
+855,No Treatment,200.0,0
+855,Anti-PD-1,200.0,0
+855,CCR2 Antagonist,200.0,0
+855,Combination,200.0,0
+856,No Treatment,26.21,1
+856,Anti-PD-1,34.1,1
+856,CCR2 Antagonist,27.87,1
+856,Combination,44.0,1
+857,No Treatment,35.44,1
+857,Anti-PD-1,36.52,1
+857,CCR2 Antagonist,35.93,1
+857,Combination,37.74,1
+858,No Treatment,200.0,0
+858,Anti-PD-1,200.0,0
+858,CCR2 Antagonist,200.0,0
+858,Combination,200.0,0
+859,No Treatment,50.42,1
+859,Anti-PD-1,61.88,1
+859,CCR2 Antagonist,52.94,1
+859,Combination,74.98,1
+860,No Treatment,87.11,1
+860,Anti-PD-1,200.0,0
+860,CCR2 Antagonist,200.0,0
+860,Combination,200.0,0
+861,No Treatment,23.57,0
+861,Anti-PD-1,23.57,0
+861,CCR2 Antagonist,23.57,0
+861,Combination,23.57,0
+862,No Treatment,200.0,0
+862,Anti-PD-1,200.0,0
+862,CCR2 Antagonist,200.0,0
+862,Combination,200.0,0
+863,No Treatment,31.59,1
+863,Anti-PD-1,32.2,1
+863,CCR2 Antagonist,31.86,1
+863,Combination,32.51,1
+864,No Treatment,43.13,1
+864,Anti-PD-1,43.2,1
+864,CCR2 Antagonist,43.18,1
+864,Combination,43.26,1
+865,No Treatment,37.92,1
+865,Anti-PD-1,39.07,1
+865,CCR2 Antagonist,38.5,1
+865,Combination,39.81,1
+866,No Treatment,65.58,1
+866,Anti-PD-1,95.38,0
+866,CCR2 Antagonist,81.96,1
+866,Combination,95.38,0
+867,No Treatment,16.24,1
+867,Anti-PD-1,16.83,1
+867,CCR2 Antagonist,16.49,1
+867,Combination,17.54,1
+868,No Treatment,17.28,1
+868,Anti-PD-1,51.39,1
+868,CCR2 Antagonist,21.17,1
+868,Combination,200.0,0
+869,No Treatment,40.26,1
+869,Anti-PD-1,45.04,1
+869,CCR2 Antagonist,42.52,1
+869,Combination,50.8,1
+870,No Treatment,200.0,0
+870,Anti-PD-1,200.0,0
+870,CCR2 Antagonist,200.0,0
+870,Combination,200.0,0
+871,No Treatment,23.5,1
+871,Anti-PD-1,31.16,1
+871,CCR2 Antagonist,25.27,1
+871,Combination,42.47,1
+872,No Treatment,29.84,1
+872,Anti-PD-1,200.0,0
+872,CCR2 Antagonist,37.68,1
+872,Combination,200.0,0
+873,No Treatment,56.54,1
+873,Anti-PD-1,58.5,1
+873,CCR2 Antagonist,58.01,1
+873,Combination,60.24,1
+874,No Treatment,22.94,1
+874,Anti-PD-1,26.91,1
+874,CCR2 Antagonist,24.85,1
+874,Combination,32.76,1
+875,No Treatment,18.87,1
+875,Anti-PD-1,21.57,1
+875,CCR2 Antagonist,19.75,1
+875,Combination,24.87,1
+876,No Treatment,75.71,1
+876,Anti-PD-1,200.0,0
+876,CCR2 Antagonist,119.46,1
+876,Combination,200.0,0
+877,No Treatment,48.74,1
+877,Anti-PD-1,200.0,0
+877,CCR2 Antagonist,74.36,1
+877,Combination,200.0,0
+878,No Treatment,24.49,1
+878,Anti-PD-1,35.87,1
+878,CCR2 Antagonist,27.5,1
+878,Combination,49.17,1
+879,No Treatment,32.37,1
+879,Anti-PD-1,36.48,1
+879,CCR2 Antagonist,34.09,1
+879,Combination,41.33,1
+880,No Treatment,200.0,0
+880,Anti-PD-1,200.0,0
+880,CCR2 Antagonist,200.0,0
+880,Combination,200.0,0
+881,No Treatment,200.0,0
+881,Anti-PD-1,200.0,0
+881,CCR2 Antagonist,200.0,0
+881,Combination,200.0,0
+882,No Treatment,200.0,0
+882,Anti-PD-1,200.0,0
+882,CCR2 Antagonist,200.0,0
+882,Combination,200.0,0
+883,No Treatment,32.28,1
+883,Anti-PD-1,32.5,1
+883,CCR2 Antagonist,32.38,1
+883,Combination,32.61,1
+884,No Treatment,31.81,1
+884,Anti-PD-1,31.85,1
+884,CCR2 Antagonist,31.83,1
+884,Combination,31.88,1
+885,No Treatment,58.2,1
+885,Anti-PD-1,86.37,1
+885,CCR2 Antagonist,62.18,1
+885,Combination,113.91,1
+886,No Treatment,28.4,1
+886,Anti-PD-1,28.56,1
+886,CCR2 Antagonist,28.46,1
+886,Combination,28.63,1
+887,No Treatment,49.07,1
+887,Anti-PD-1,52.12,1
+887,CCR2 Antagonist,50.55,1
+887,Combination,54.12,1
+888,No Treatment,36.06,1
+888,Anti-PD-1,37.83,1
+888,CCR2 Antagonist,37.07,1
+888,Combination,39.11,1
+889,No Treatment,47.92,1
+889,Anti-PD-1,50.69,1
+889,CCR2 Antagonist,49.11,1
+889,Combination,52.27,1
+890,No Treatment,27.27,1
+890,Anti-PD-1,43.11,1
+890,CCR2 Antagonist,30.95,1
+890,Combination,76.71,1
+891,No Treatment,35.41,1
+891,Anti-PD-1,40.44,1
+891,CCR2 Antagonist,37.52,1
+891,Combination,48.54,1
+892,No Treatment,200.0,0
+892,Anti-PD-1,200.0,0
+892,CCR2 Antagonist,200.0,0
+892,Combination,200.0,0
+893,No Treatment,16.71,1
+893,Anti-PD-1,20.57,1
+893,CCR2 Antagonist,18.08,1
+893,Combination,25.24,1
+894,No Treatment,34.66,1
+894,Anti-PD-1,45.72,1
+894,CCR2 Antagonist,37.93,1
+894,Combination,75.27,1
+895,No Treatment,29.19,1
+895,Anti-PD-1,33.32,1
+895,CCR2 Antagonist,30.22,1
+895,Combination,36.77,1
+896,No Treatment,30.68,1
+896,Anti-PD-1,30.91,1
+896,CCR2 Antagonist,30.78,1
+896,Combination,31.02,1
+897,No Treatment,200.0,0
+897,Anti-PD-1,200.0,0
+897,CCR2 Antagonist,200.0,0
+897,Combination,200.0,0
+898,No Treatment,43.4,1
+898,Anti-PD-1,45.86,1
+898,CCR2 Antagonist,44.74,1
+898,Combination,47.7,1
+899,No Treatment,29.37,1
+899,Anti-PD-1,36.32,1
+899,CCR2 Antagonist,32.49,1
+899,Combination,52.39,1
+900,No Treatment,200.0,0
+900,Anti-PD-1,200.0,0
+900,CCR2 Antagonist,200.0,0
+900,Combination,200.0,0
+901,No Treatment,25.24,1
+901,Anti-PD-1,25.28,1
+901,CCR2 Antagonist,25.26,1
+901,Combination,25.3,1
+902,No Treatment,35.56,1
+902,Anti-PD-1,49.67,1
+902,CCR2 Antagonist,39.24,1
+902,Combination,71.77,1
+903,No Treatment,200.0,0
+903,Anti-PD-1,200.0,0
+903,CCR2 Antagonist,200.0,0
+903,Combination,200.0,0
+904,No Treatment,42.12,1
+904,Anti-PD-1,42.37,1
+904,CCR2 Antagonist,42.26,1
+904,Combination,42.51,1
+905,No Treatment,69.04,1
+905,Anti-PD-1,200.0,0
+905,CCR2 Antagonist,102.62,1
+905,Combination,200.0,0
+906,No Treatment,200.0,0
+906,Anti-PD-1,200.0,0
+906,CCR2 Antagonist,200.0,0
+906,Combination,200.0,0
+907,No Treatment,16.59,1
+907,Anti-PD-1,16.61,1
+907,CCR2 Antagonist,16.6,1
+907,Combination,16.61,1
+908,No Treatment,16.77,0
+908,Anti-PD-1,16.77,0
+908,CCR2 Antagonist,16.77,0
+908,Combination,16.77,0
+909,No Treatment,12.23,1
+909,Anti-PD-1,12.3,1
+909,CCR2 Antagonist,12.25,1
+909,Combination,12.36,1
+910,No Treatment,35.77,1
+910,Anti-PD-1,38.17,1
+910,CCR2 Antagonist,36.62,1
+910,Combination,40.76,1
+911,No Treatment,33.74,1
+911,Anti-PD-1,33.85,1
+911,CCR2 Antagonist,33.81,1
+911,Combination,33.91,1
+912,No Treatment,42.99,1
+912,Anti-PD-1,70.03,1
+912,CCR2 Antagonist,49.38,1
+912,Combination,200.0,0
+913,No Treatment,40.08,1
+913,Anti-PD-1,50.23,1
+913,CCR2 Antagonist,43.66,1
+913,Combination,56.84,1
+914,No Treatment,33.5,1
+914,Anti-PD-1,51.46,1
+914,CCR2 Antagonist,37.3,1
+914,Combination,82.82,1
+915,No Treatment,200.0,0
+915,Anti-PD-1,200.0,0
+915,CCR2 Antagonist,200.0,0
+915,Combination,200.0,0
+916,No Treatment,27.33,1
+916,Anti-PD-1,32.88,1
+916,CCR2 Antagonist,29.05,1
+916,Combination,39.1,1
+917,No Treatment,15.66,1
+917,Anti-PD-1,18.01,1
+917,CCR2 Antagonist,16.59,1
+917,Combination,20.53,1
+918,No Treatment,40.31,1
+918,Anti-PD-1,68.35,1
+918,CCR2 Antagonist,52.09,1
+918,Combination,200.0,0
+919,No Treatment,73.0,1
+919,Anti-PD-1,83.35,1
+919,CCR2 Antagonist,78.49,1
+919,Combination,91.59,1
+920,No Treatment,18.32,1
+920,Anti-PD-1,19.49,1
+920,CCR2 Antagonist,18.68,1
+920,Combination,20.42,1
+921,No Treatment,27.15,1
+921,Anti-PD-1,32.52,1
+921,CCR2 Antagonist,29.54,1
+921,Combination,43.77,1
+922,No Treatment,58.75,1
+922,Anti-PD-1,200.0,0
+922,CCR2 Antagonist,101.47,1
+922,Combination,200.0,0
+923,No Treatment,200.0,0
+923,Anti-PD-1,200.0,0
+923,CCR2 Antagonist,200.0,0
+923,Combination,200.0,0
+924,No Treatment,200.0,0
+924,Anti-PD-1,200.0,0
+924,CCR2 Antagonist,200.0,0
+924,Combination,200.0,0
+925,No Treatment,25.67,1
+925,Anti-PD-1,27.64,1
+925,CCR2 Antagonist,26.19,1
+925,Combination,29.17,1
+926,No Treatment,28.23,1
+926,Anti-PD-1,29.35,1
+926,CCR2 Antagonist,28.78,1
+926,Combination,29.99,1
+927,No Treatment,57.57,1
+927,Anti-PD-1,120.96,1
+927,CCR2 Antagonist,62.64,1
+927,Combination,200.0,0
+928,No Treatment,200.0,0
+928,Anti-PD-1,200.0,0
+928,CCR2 Antagonist,200.0,0
+928,Combination,200.0,0
+929,No Treatment,66.74,1
+929,Anti-PD-1,114.04,1
+929,CCR2 Antagonist,79.06,1
+929,Combination,200.0,0
+930,No Treatment,200.0,0
+930,Anti-PD-1,200.0,0
+930,CCR2 Antagonist,200.0,0
+930,Combination,200.0,0
+931,No Treatment,81.96,0
+931,Anti-PD-1,81.96,0
+931,CCR2 Antagonist,81.96,0
+931,Combination,81.96,0
+932,No Treatment,59.79,1
+932,Anti-PD-1,200.0,0
+932,CCR2 Antagonist,200.0,0
+932,Combination,200.0,0
+933,No Treatment,83.11,1
+933,Anti-PD-1,200.0,0
+933,CCR2 Antagonist,200.0,0
+933,Combination,200.0,0
+934,No Treatment,39.04,1
+934,Anti-PD-1,200.0,0
+934,CCR2 Antagonist,200.0,0
+934,Combination,200.0,0
+935,No Treatment,37.12,0
+935,Anti-PD-1,37.12,0
+935,CCR2 Antagonist,37.12,0
+935,Combination,37.12,0
+936,No Treatment,38.19,1
+936,Anti-PD-1,38.37,1
+936,CCR2 Antagonist,38.27,1
+936,Combination,38.45,1
+937,No Treatment,126.56,1
+937,Anti-PD-1,200.0,0
+937,CCR2 Antagonist,154.73,1
+937,Combination,200.0,0
+938,No Treatment,44.9,1
+938,Anti-PD-1,69.31,1
+938,CCR2 Antagonist,53.89,1
+938,Combination,200.0,0
+939,No Treatment,68.57,1
+939,Anti-PD-1,78.59,1
+939,CCR2 Antagonist,74.92,1
+939,Combination,88.18,1
+940,No Treatment,44.59,1
+940,Anti-PD-1,45.06,1
+940,CCR2 Antagonist,44.85,1
+940,Combination,45.39,1
+941,No Treatment,80.98,1
+941,Anti-PD-1,200.0,0
+941,CCR2 Antagonist,200.0,0
+941,Combination,200.0,0
+942,No Treatment,66.32,1
+942,Anti-PD-1,82.97,1
+942,CCR2 Antagonist,70.07,1
+942,Combination,104.89,1
+943,No Treatment,57.77,1
+943,Anti-PD-1,200.0,0
+943,CCR2 Antagonist,81.34,1
+943,Combination,200.0,0
+944,No Treatment,85.78,1
+944,Anti-PD-1,200.0,0
+944,CCR2 Antagonist,168.58,1
+944,Combination,200.0,0
+945,No Treatment,20.67,1
+945,Anti-PD-1,22.66,1
+945,CCR2 Antagonist,21.25,1
+945,Combination,24.63,1
+946,No Treatment,200.0,0
+946,Anti-PD-1,200.0,0
+946,CCR2 Antagonist,200.0,0
+946,Combination,200.0,0
+947,No Treatment,200.0,0
+947,Anti-PD-1,200.0,0
+947,CCR2 Antagonist,200.0,0
+947,Combination,200.0,0
+948,No Treatment,200.0,0
+948,Anti-PD-1,200.0,0
+948,CCR2 Antagonist,200.0,0
+948,Combination,200.0,0
+949,No Treatment,13.82,1
+949,Anti-PD-1,18.47,1
+949,CCR2 Antagonist,15.75,1
+949,Combination,27.42,1
+950,No Treatment,200.0,0
+950,Anti-PD-1,200.0,0
+950,CCR2 Antagonist,200.0,0
+950,Combination,200.0,0
+951,No Treatment,32.62,1
+951,Anti-PD-1,33.14,1
+951,CCR2 Antagonist,32.8,1
+951,Combination,33.34,1
+952,No Treatment,31.88,1
+952,Anti-PD-1,33.6,1
+952,CCR2 Antagonist,32.52,1
+952,Combination,34.41,1
+953,No Treatment,92.59,1
+953,Anti-PD-1,200.0,0
+953,CCR2 Antagonist,200.0,0
+953,Combination,200.0,0
+954,No Treatment,200.0,0
+954,Anti-PD-1,200.0,0
+954,CCR2 Antagonist,200.0,0
+954,Combination,200.0,0
+955,No Treatment,36.74,1
+955,Anti-PD-1,42.41,1
+955,CCR2 Antagonist,38.24,1
+955,Combination,49.44,1
+956,No Treatment,20.96,1
+956,Anti-PD-1,21.69,1
+956,CCR2 Antagonist,21.24,1
+956,Combination,22.58,1
+957,No Treatment,30.41,1
+957,Anti-PD-1,31.99,1
+957,CCR2 Antagonist,30.95,1
+957,Combination,32.7,1
+958,No Treatment,43.52,1
+958,Anti-PD-1,200.0,0
+958,CCR2 Antagonist,200.0,0
+958,Combination,200.0,0
+959,No Treatment,45.88,1
+959,Anti-PD-1,76.24,1
+959,CCR2 Antagonist,53.34,1
+959,Combination,200.0,0
+960,No Treatment,186.24,1
+960,Anti-PD-1,200.0,0
+960,CCR2 Antagonist,200.0,0
+960,Combination,200.0,0
+961,No Treatment,200.0,0
+961,Anti-PD-1,200.0,0
+961,CCR2 Antagonist,200.0,0
+961,Combination,200.0,0
+962,No Treatment,200.0,0
+962,Anti-PD-1,200.0,0
+962,CCR2 Antagonist,200.0,0
+962,Combination,200.0,0
+963,No Treatment,200.0,0
+963,Anti-PD-1,200.0,0
+963,CCR2 Antagonist,200.0,0
+963,Combination,200.0,0
+964,No Treatment,31.51,1
+964,Anti-PD-1,34.27,1
+964,CCR2 Antagonist,32.6,1
+964,Combination,38.56,1
+965,No Treatment,41.22,1
+965,Anti-PD-1,200.0,0
+965,CCR2 Antagonist,51.7,1
+965,Combination,200.0,0
+966,No Treatment,200.0,0
+966,Anti-PD-1,200.0,0
+966,CCR2 Antagonist,200.0,0
+966,Combination,200.0,0
+967,No Treatment,49.34,1
+967,Anti-PD-1,200.0,0
+967,CCR2 Antagonist,65.0,1
+967,Combination,200.0,0
+968,No Treatment,25.33,1
+968,Anti-PD-1,200.0,0
+968,CCR2 Antagonist,44.87,1
+968,Combination,200.0,0
+969,No Treatment,71.58,1
+969,Anti-PD-1,200.0,0
+969,CCR2 Antagonist,161.66,1
+969,Combination,200.0,0
+970,No Treatment,200.0,0
+970,Anti-PD-1,200.0,0
+970,CCR2 Antagonist,200.0,0
+970,Combination,200.0,0
+971,No Treatment,29.11,1
+971,Anti-PD-1,37.45,1
+971,CCR2 Antagonist,30.75,1
+971,Combination,45.55,1
+972,No Treatment,26.01,1
+972,Anti-PD-1,26.34,1
+972,CCR2 Antagonist,26.17,1
+972,Combination,26.75,1
+973,No Treatment,55.25,1
+973,Anti-PD-1,92.96,1
+973,CCR2 Antagonist,59.9,1
+973,Combination,200.0,0
+974,No Treatment,40.17,1
+974,Anti-PD-1,200.0,0
+974,CCR2 Antagonist,73.67,1
+974,Combination,200.0,0
+975,No Treatment,31.37,1
+975,Anti-PD-1,34.13,1
+975,CCR2 Antagonist,32.04,1
+975,Combination,36.36,1
+976,No Treatment,200.0,0
+976,Anti-PD-1,200.0,0
+976,CCR2 Antagonist,200.0,0
+976,Combination,200.0,0
+977,No Treatment,200.0,0
+977,Anti-PD-1,200.0,0
+977,CCR2 Antagonist,200.0,0
+977,Combination,200.0,0
+978,No Treatment,14.63,1
+978,Anti-PD-1,16.58,1
+978,CCR2 Antagonist,15.36,1
+978,Combination,18.73,1
+979,No Treatment,15.22,1
+979,Anti-PD-1,41.85,1
+979,CCR2 Antagonist,22.5,1
+979,Combination,200.0,0
+980,No Treatment,27.28,1
+980,Anti-PD-1,57.56,1
+980,CCR2 Antagonist,42.63,1
+980,Combination,200.0,0
+981,No Treatment,42.06,1
+981,Anti-PD-1,200.0,0
+981,CCR2 Antagonist,59.85,1
+981,Combination,200.0,0
+982,No Treatment,200.0,0
+982,Anti-PD-1,200.0,0
+982,CCR2 Antagonist,200.0,0
+982,Combination,200.0,0
+983,No Treatment,200.0,0
+983,Anti-PD-1,200.0,0
+983,CCR2 Antagonist,200.0,0
+983,Combination,200.0,0
+984,No Treatment,123.65,1
+984,Anti-PD-1,200.0,0
+984,CCR2 Antagonist,146.65,1
+984,Combination,200.0,0
+985,No Treatment,200.0,0
+985,Anti-PD-1,200.0,0
+985,CCR2 Antagonist,200.0,0
+985,Combination,200.0,0
+986,No Treatment,200.0,0
+986,Anti-PD-1,200.0,0
+986,CCR2 Antagonist,200.0,0
+986,Combination,200.0,0
+987,No Treatment,200.0,0
+987,Anti-PD-1,200.0,0
+987,CCR2 Antagonist,200.0,0
+987,Combination,200.0,0
+988,No Treatment,74.14,1
+988,Anti-PD-1,200.0,0
+988,CCR2 Antagonist,200.0,0
+988,Combination,200.0,0
+989,No Treatment,200.0,0
+989,Anti-PD-1,200.0,0
+989,CCR2 Antagonist,200.0,0
+989,Combination,200.0,0
+990,No Treatment,84.49,1
+990,Anti-PD-1,200.0,0
+990,CCR2 Antagonist,200.0,0
+990,Combination,200.0,0
+991,No Treatment,20.52,1
+991,Anti-PD-1,22.08,1
+991,CCR2 Antagonist,21.1,1
+991,Combination,23.72,1
+992,No Treatment,21.2,1
+992,Anti-PD-1,22.69,1
+992,CCR2 Antagonist,21.61,1
+992,Combination,23.94,1
+993,No Treatment,35.2,1
+993,Anti-PD-1,59.25,1
+993,CCR2 Antagonist,39.69,1
+993,Combination,104.85,1
+994,No Treatment,200.0,0
+994,Anti-PD-1,200.0,0
+994,CCR2 Antagonist,200.0,0
+994,Combination,200.0,0
+995,No Treatment,10.83,0
+995,Anti-PD-1,10.83,0
+995,CCR2 Antagonist,10.83,0
+995,Combination,10.83,0
+996,No Treatment,61.56,1
+996,Anti-PD-1,200.0,0
+996,CCR2 Antagonist,200.0,0
+996,Combination,200.0,0
+997,No Treatment,41.76,1
+997,Anti-PD-1,49.14,1
+997,CCR2 Antagonist,45.25,1
+997,Combination,55.92,1
+998,No Treatment,38.54,1
+998,Anti-PD-1,125.2,1
+998,CCR2 Antagonist,52.17,1
+998,Combination,200.0,0
+999,No Treatment,32.49,1
+999,Anti-PD-1,33.28,1
+999,CCR2 Antagonist,32.92,1
+999,Combination,33.8,1

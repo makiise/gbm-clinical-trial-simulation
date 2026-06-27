@@ -1,0 +1,5 @@
+arm,u1,u2,events,censored,median_PFS_days,PFS_at_200d,logrank_p_vs_notx,hazard_ratio,HR_CI_low,HR_CI_high
+No Treatment,0.0,0.0,699,301,48.1,0.277,,,,
+Anti-PD-1,0.7,0.0,533,467,86.4,0.447,2.484e-15,0.636,0.568,0.712
+CCR2 Antagonist,0.0,0.7,632,368,56.7,0.345,5.725e-04,0.828,0.743,0.922
+Combination,0.7,0.7,462,538,NA,0.52,3.280e-29,0.515,0.458,0.58
