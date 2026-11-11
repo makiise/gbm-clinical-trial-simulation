@@ -13,7 +13,7 @@ Python 3.10+ and the following packages:
 pip install numpy scipy matplotlib lifelines pandas pillow
 ` ` `
 
-Here's the complete README.md. Copy everything between the lines below into a new file called README.md in your D:\Desktop\gbm folder. Don't paste the dashed lines themselves — they're just markers.
+Here's the complete README.md. Copy everything between the lines below into a new file called README.md in your D:\Desktop\gbm folder. 
 
 markdown# Computational Framework for GBM Immunotherapy Simulation
 
